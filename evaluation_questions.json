@@ -1,0 +1,611 @@
+[
+  {
+    "id": 1,
+    "question": "What is the main focus of Chapter 1?",
+    "expected_answer": "Chapter 1 examines AI research and development trends, including publications, patents, notable AI systems, model training and inference costs, hardware, conferences, and open-source AI software.",
+    "keywords": [
+      "research",
+      "development",
+      "publications",
+      "patents"
+    ],
+    "source_pages": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Which sector produced nearly 90% of notable AI models in 2024?",
+    "expected_answer": "Industry produced nearly 90% of notable AI models in 2024.",
+    "keywords": [
+      "industry",
+      "90%"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Which country led AI publication totals in 2023?",
+    "expected_answer": "China led, accounting for 23.2% of AI publications.",
+    "keywords": [
+      "china",
+      "23.2%"
+    ],
+    "source_pages": [
+      11
+    ]
+  },
+  {
+    "id": 4,
+    "question": "How did the number of AI publications change from 2013 to 2023?",
+    "expected_answer": "It rose from approximately 102,000 to more than 242,000, more than doubling.",
+    "keywords": [
+      "102,000",
+      "242,000",
+      "doubling"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What share of computer-science publications were AI-related in 2023?",
+    "expected_answer": "About 41.8% were AI-related.",
+    "keywords": [
+      "41.8%"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Which country led in highly influential AI research?",
+    "expected_answer": "The United States led in top-100-cited AI publications.",
+    "keywords": [
+      "united states",
+      "top-100",
+      "cited"
+    ],
+    "source_pages": [
+      12
+    ]
+  },
+  {
+    "id": 7,
+    "question": "How many notable AI models did U.S.-based institutions produce in 2024?",
+    "expected_answer": "40 notable AI models.",
+    "keywords": [
+      "40"
+    ],
+    "source_pages": [
+      23
+    ]
+  },
+  {
+    "id": 8,
+    "question": "How many notable AI models did China produce in 2024?",
+    "expected_answer": "15 notable AI models.",
+    "keywords": [
+      "15"
+    ],
+    "source_pages": [
+      23
+    ]
+  },
+  {
+    "id": 9,
+    "question": "How fast does training compute for notable AI models double?",
+    "expected_answer": "Approximately every five months.",
+    "keywords": [
+      "five months"
+    ],
+    "source_pages": [
+      33
+    ]
+  },
+  {
+    "id": 10,
+    "question": "How fast do LLM training datasets double?",
+    "expected_answer": "Approximately every eight months.",
+    "keywords": [
+      "eight months"
+    ],
+    "source_pages": [
+      31
+    ]
+  },
+  {
+    "id": 11,
+    "question": "How much did GPT-3.5-level inference cost in Nov. 2022?",
+    "expected_answer": "$20 per million tokens.",
+    "keywords": [
+      "$20",
+      "million tokens"
+    ],
+    "source_pages": [
+      41
+    ]
+  },
+  {
+    "id": 12,
+    "question": "What was the comparable inference cost by Oct. 2024?",
+    "expected_answer": "$0.07 per million tokens.",
+    "keywords": [
+      "$0.07",
+      "million tokens"
+    ],
+    "source_pages": [
+      41
+    ]
+  },
+  {
+    "id": 13,
+    "question": "By how much did that inference cost fall?",
+    "expected_answer": "More than 280-fold.",
+    "keywords": [
+      "280-fold"
+    ],
+    "source_pages": [
+      41
+    ]
+  },
+  {
+    "id": 14,
+    "question": "How many AI patents were granted in 2010?",
+    "expected_answer": "3,833.",
+    "keywords": [
+      "3,833"
+    ],
+    "source_pages": [
+      19
+    ]
+  },
+  {
+    "id": 15,
+    "question": "How many AI patents were granted in 2023?",
+    "expected_answer": "122,511.",
+    "keywords": [
+      "122,511"
+    ],
+    "source_pages": [
+      19
+    ]
+  },
+  {
+    "id": 16,
+    "question": "What was the increase in AI patents in the last year covered?",
+    "expected_answer": "29.6%.",
+    "keywords": [
+      "29.6%"
+    ],
+    "source_pages": [
+      19
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Which region accounted for most granted AI patents in 2023?",
+    "expected_answer": "East Asia and the Pacific, with 82.4%.",
+    "keywords": [
+      "east asia",
+      "pacific",
+      "82.4%"
+    ],
+    "source_pages": [
+      20
+    ]
+  },
+  {
+    "id": 18,
+    "question": "What share of granted AI patents came from China in 2023?",
+    "expected_answer": "69.7%.",
+    "keywords": [
+      "69.7%"
+    ],
+    "source_pages": [
+      21
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Which country had the most AI patents per 100,000 people in 2023?",
+    "expected_answer": "South Korea, with 17.3 per 100,000 inhabitants.",
+    "keywords": [
+      "south korea",
+      "17.3"
+    ],
+    "source_pages": [
+      21
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Which country followed South Korea in patents per 100,000 people?",
+    "expected_answer": "Luxembourg, with 15.3 per 100,000 inhabitants.",
+    "keywords": [
+      "luxembourg",
+      "15.3"
+    ],
+    "source_pages": [
+      22
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Which organization led notable AI model production in 2024?",
+    "expected_answer": "Google and OpenAI were tied at seven models each.",
+    "keywords": [
+      "google",
+      "openai",
+      "seven"
+    ],
+    "source_pages": [
+      26
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Which organization was third among 2024 notable model producers?",
+    "expected_answer": "Alibaba, with six models.",
+    "keywords": [
+      "alibaba",
+      "six"
+    ],
+    "source_pages": [
+      26
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Which organization led cumulative notable model production since 2014?",
+    "expected_answer": "Google, with 187 notable models.",
+    "keywords": [
+      "google",
+      "187"
+    ],
+    "source_pages": [
+      26
+    ]
+  },
+  {
+    "id": 24,
+    "question": "What are API-access models?",
+    "expected_answer": "Models that users can interact with through queries without direct access to the underlying model weights.",
+    "keywords": [
+      "queries",
+      "underlying",
+      "model weights"
+    ],
+    "source_pages": [
+      27
+    ]
+  },
+  {
+    "id": 25,
+    "question": "What was the most common notable-model access type in 2024?",
+    "expected_answer": "API access, accounting for 32.8% of models.",
+    "keywords": [
+      "api access",
+      "32.8%"
+    ],
+    "source_pages": [
+      27
+    ]
+  },
+  {
+    "id": 26,
+    "question": "What percentage of notable models in 2024 were released without corresponding training code?",
+    "expected_answer": "60.7%.",
+    "keywords": [
+      "60.7%"
+    ],
+    "source_pages": [
+      28
+    ]
+  },
+  {
+    "id": 27,
+    "question": "What are model parameters?",
+    "expected_answer": "Numerical values learned during training that determine how a model interprets inputs and makes predictions.",
+    "keywords": [
+      "numerical values",
+      "training",
+      "predictions"
+    ],
+    "source_pages": [
+      29
+    ]
+  },
+  {
+    "id": 28,
+    "question": "What trend occurred in AI model parameter counts?",
+    "expected_answer": "Parameter counts rose sharply, reflecting greater model complexity, data availability, hardware improvements, and the effectiveness of larger models.",
+    "keywords": [
+      "parameter counts",
+      "rose sharply",
+      "model complexity"
+    ],
+    "source_pages": [
+      29
+    ]
+  },
+  {
+    "id": 29,
+    "question": "How large was the Transformer training dataset?",
+    "expected_answer": "Approximately 2 billion tokens.",
+    "keywords": [
+      "2 billion",
+      "tokens"
+    ],
+    "source_pages": [
+      31
+    ]
+  },
+  {
+    "id": 30,
+    "question": "How large was GPT-3's estimated training dataset?",
+    "expected_answer": "Approximately 374 billion tokens.",
+    "keywords": [
+      "374 billion",
+      "tokens"
+    ],
+    "source_pages": [
+      31
+    ]
+  },
+  {
+    "id": 31,
+    "question": "How large was Llama 3.3's reported training dataset?",
+    "expected_answer": "Roughly 15 trillion tokens.",
+    "keywords": [
+      "15 trillion",
+      "tokens"
+    ],
+    "source_pages": [
+      31
+    ]
+  },
+  {
+    "id": 32,
+    "question": "How long did AlexNet take to train?",
+    "expected_answer": "About five to six days.",
+    "keywords": [
+      "five",
+      "six",
+      "days"
+    ],
+    "source_pages": [
+      32
+    ]
+  },
+  {
+    "id": 33,
+    "question": "How long did Llama 3.1-405B take to train?",
+    "expected_answer": "Approximately 90 days.",
+    "keywords": [
+      "90 days"
+    ],
+    "source_pages": [
+      32
+    ]
+  },
+  {
+    "id": 34,
+    "question": "What does 'compute' mean in the context of AI models?",
+    "expected_answer": "The computational resources required to train and operate a machine-learning model.",
+    "keywords": [
+      "computational resources",
+      "train",
+      "operate"
+    ],
+    "source_pages": [
+      33
+    ]
+  },
+  {
+    "id": 35,
+    "question": "How fast has training compute grown for notable AI models?",
+    "expected_answer": "It has increased exponentially and doubles roughly every five months.",
+    "keywords": [
+      "exponentially",
+      "five months"
+    ],
+    "source_pages": [
+      33
+    ]
+  },
+  {
+    "id": 36,
+    "question": "How much training compute did AlexNet require?",
+    "expected_answer": "An estimated 470 petaFLOP.",
+    "keywords": [
+      "470",
+      "petaflop"
+    ],
+    "source_pages": [
+      34
+    ]
+  },
+  {
+    "id": 37,
+    "question": "How much training compute did the original Transformer require?",
+    "expected_answer": "Around 7,400 petaFLOP.",
+    "keywords": [
+      "7,400",
+      "petaflop"
+    ],
+    "source_pages": [
+      34
+    ]
+  },
+  {
+    "id": 38,
+    "question": "How much training compute did GPT-4o require?",
+    "expected_answer": "About 38 billion petaFLOP.",
+    "keywords": [
+      "38 billion",
+      "petaflop"
+    ],
+    "source_pages": [
+      34
+    ]
+  },
+  {
+    "id": 39,
+    "question": "What data-stock range does Epoch AI estimate for the indexed web?",
+    "expected_answer": "Approximately 510 trillion tokens.",
+    "keywords": [
+      "510 trillion",
+      "tokens"
+    ],
+    "source_pages": [
+      36
+    ]
+  },
+  {
+    "id": 40,
+    "question": "When does Epoch AI project the current stock of training data will be fully utilized?",
+    "expected_answer": "Between 2026 and 2032, with an 80% confidence interval.",
+    "keywords": [
+      "2026",
+      "2032",
+      "80%"
+    ],
+    "source_pages": [
+      37
+    ]
+  },
+  {
+    "id": 41,
+    "question": "What happens when synthetic data replaces real data through repeated training?",
+    "expected_answer": "The report discusses model-collapse effects, including degraded output quality.",
+    "keywords": [
+      "model collapse",
+      "degraded",
+      "output quality"
+    ],
+    "source_pages": [
+      38
+    ]
+  },
+  {
+    "id": 42,
+    "question": "What was the inference cost for models above 50% on GPQA in May 2024?",
+    "expected_answer": "$15 per million tokens.",
+    "keywords": [
+      "$15",
+      "million tokens"
+    ],
+    "source_pages": [
+      41
+    ]
+  },
+  {
+    "id": 43,
+    "question": "What was that GPQA-related inference cost by December 2024?",
+    "expected_answer": "$0.12 per million tokens.",
+    "keywords": [
+      "$0.12",
+      "million tokens"
+    ],
+    "source_pages": [
+      41
+    ]
+  },
+  {
+    "id": 44,
+    "question": "What did Sam Altman indicate about GPT-4 training cost?",
+    "expected_answer": "He indicated that training GPT-4 exceeded $100 million.",
+    "keywords": [
+      "sam altman",
+      "100 million"
+    ],
+    "source_pages": [
+      42
+    ]
+  },
+  {
+    "id": 45,
+    "question": "What was the estimated training cost of GPT-4?",
+    "expected_answer": "Around $79 million in the report's Epoch-based estimate.",
+    "keywords": [
+      "$79 million"
+    ],
+    "source_pages": [
+      43
+    ]
+  },
+  {
+    "id": 46,
+    "question": "What was the estimated training cost of Llama 3.1-405B?",
+    "expected_answer": "About $170 million.",
+    "keywords": [
+      "$170 million"
+    ],
+    "source_pages": [
+      43
+    ]
+  },
+  {
+    "id": 47,
+    "question": "How fast has ML hardware performance grown annually?",
+    "expected_answer": "Approximately 43% per year, doubling every 1.9 years.",
+    "keywords": [
+      "43%",
+      "1.9 years"
+    ],
+    "source_pages": [
+      45
+    ]
+  },
+  {
+    "id": 48,
+    "question": "How much did fixed-performance ML hardware costs decline annually?",
+    "expected_answer": "About 30% per year.",
+    "keywords": [
+      "30%",
+      "per year"
+    ],
+    "source_pages": [
+      46
+    ]
+  },
+  {
+    "id": 49,
+    "question": "How much did ML hardware energy efficiency improve annually?",
+    "expected_answer": "Approximately 40% per year.",
+    "keywords": [
+      "40%",
+      "per year"
+    ],
+    "source_pages": [
+      48
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Which GPU was reported as being used by the most notable models by 2024?",
+    "expected_answer": "The NVIDIA A100, reported for 64 models.",
+    "keywords": [
+      "nvidia a100",
+      "64"
+    ],
+    "source_pages": [
+      47
+    ]
+  },
+  {
+    "id": 51,
+    "question": "What was the population of Mars in 2024?",
+    "expected_answer": "I don't know based on the provided document.",
+    "keywords": [],
+    "answerable": false,
+    "source_pages": []
+  }
+]

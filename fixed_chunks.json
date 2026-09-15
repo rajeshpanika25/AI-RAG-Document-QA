@@ -1,0 +1,698 @@
+[
+  {
+    "chunk_id": "fixed_1_0",
+    "method": "fixed_size",
+    "page": 1,
+    "text": "Artificial Intelligence\nIndex Report 2025\nCHAPTER 1: \nResearch and Development"
+  },
+  {
+    "chunk_id": "fixed_2_0",
+    "method": "fixed_size",
+    "page": 2,
+    "text": "Table of Contents 25\nOverview 26\nChap\nter Highlights 27\n1.\n1 Publications 29\nOv\nerview 29\n To\ntal Number of AI Publications 29\n By\n Venue 31\n By\n National Affiliation 32\n By\n Sector 36\n By\n Topic 38\nT\nop 100 Publications 39\n By\n National Affiliation 39\n By\n Sector 40\n By\n Organization 41\n1\n.2 Patents 42\n Ov\nerview 42\n By\n National Affiliation 43\n1.3 N\notable AI Models 46\n By\n National Affiliation 46\n By\n Sector 47\n By\n Organization 49\n Model R\nelease 50\n Parame\nter Trends 52\n Compute Tr\nends 56\n Highlight: \nWill Models Run  \n Out of\n Data? 59\n Infer\nence Cost 64\n Training Cost 65\n1.4 Hardware 68\nOv\nerview 68\n Highlight: \nEnergy Efficiency and \n En\nvironmental Impact 71\n1.5 AI C\nonferences 75\nConf\nerence Attendance 75\n1.\n6 Open-Source AI Software 77\nP\nrojects 77\nStars  79\nChapter 1: Research and Development\nArtificial Intelligence\nIndex Report 2025\nACCESS THE PUBLIC DATA"
+  },
+  {
+    "chunk_id": "fixed_3_0",
+    "method": "fixed_size",
+    "page": 3,
+    "text": "Table of Contents 26\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nThis chapter explores trends in AI research and development, beginning with an \nanalysis of AI publications, patents, and notable AI systems. These topics are examined \nthrough the lens of the countries, organizations, and sectors producing them. The \nchapter also covers AI model training costs, AI conference attendance, and open-\nsource AI software. New additions this year include profiles of the evolving AI hardware \necosystem, an assessment of AI training’s energy requirements and environmental \nimpact, and a temporal analysis of model inference costs.\nOverview\nCHAPTER 1: \nResearch and Development\nArtificial Intelligence\nIndex Report 2025"
+  },
+  {
+    "chunk_id": "fixed_4_0",
+    "method": "fixed_size",
+    "page": 4,
+    "text": "Table of Contents 27\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nChapter Highlights\n1. Industry continues to make significant investments in AI and leads in notable AI model development, \nwhile academia leads in highly cited research.  Industry’s lead in notable model development, highlighted in the two \nprevious AI Index reports, has only grown more pronounced, with nearly 90% of notable models in 2024 (compared to 60% \nin 2023) originating from industry. Academia has remained the single leading institutional producer of highly cited (top 100) \npublications over the past three years.\n2. China leads in AI research publication totals, while the United States leads in highly influential research. \nIn 2023, China produced more AI publications (23.2%) and citations (22.6%) than any other country. Over the past three years, \nU.S. institutions have contributed the most top-100-cited AI publications."
+  },
+  {
+    "chunk_id": "fixed_4_1",
+    "method": "fixed_size",
+    "page": 4,
+    "text": "U.S. institutions have contributed the most top-100-cited AI publications.\n3. AI publication totals continue to grow and increasingly dominate computer science.  Between 2013 and \n2023, the total number of AI publications in venues related to computer science and other scientific disciplines nearly tripled, \nincreasing from approximately 102,000 to over 242,000. Proportionally, AI’s share of computer science publications has risen \nfrom 21.6% in 2013 to 41.8% in 2023.\n4. The United States continues to be the leading source of notable AI models.  In 2024, U.S.-based institutions \nproduced 40 notable AI models, significantly surpassing China’s 15 and Europe’s combined total of three. In the past decade, \nmore notable machine learning models have originated from the United States than any other country.\n5. AI models get increasingly bigger, more computationally demanding, and more energy intensive."
+  },
+  {
+    "chunk_id": "fixed_4_2",
+    "method": "fixed_size",
+    "page": 4,
+    "text": "5. AI models get increasingly bigger, more computationally demanding, and more energy intensive. \nNew research finds that the training compute for notable AI models doubles approximately every five months, dataset sizes \nfor training LLMs every eight months, and the power required for training annually. Large-scale industry investment continues \nto drive model scaling and performance gains.\nCHAPTER 1: \nResearch and Development\nArtificial Intelligence\nIndex Report 2025"
+  },
+  {
+    "chunk_id": "fixed_5_0",
+    "method": "fixed_size",
+    "page": 5,
+    "text": "Table of Contents 28\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nChapter Highlights (cont’d)\nCHAPTER 1: \nResearch and Development\nArtificial Intelligence\nIndex Report 2025\n6. AI models become increasingly affordable to use. The cost of querying an AI model that scores the equivalent \nof GPT-3.5 (64.8) on MMLU, a popular benchmark for assessing language model performance, dropped from $20.00 per \nmillion tokens in November 2022 to just $0.07 per million tokens by October 2024 (Gemini-1.5-Flash-8B)—a more than 280-\nfold reduction in approximately 18 months. Depending on the task, LLM inference prices have fallen anywhere from 9 to 900 \ntimes per year.\n7 . AI patenting is on the rise. Between 2010 and 2023, the number of AI patents has grown steadily and significantly, \nballooning from 3,833 to 122,511. In just the last year, the number of AI patents has risen 29.6%. As of 2023, China leads in total"
+  },
+  {
+    "chunk_id": "fixed_5_1",
+    "method": "fixed_size",
+    "page": 5,
+    "text": "ballooning from 3,833 to 122,511. In just the last year, the number of AI patents has risen 29.6%. As of 2023, China leads in total \nAI patents, accounting for 69.7% of all grants, while South Korea and Luxembourg stand out as top AI patent producers on a per \ncapita basis.\n8. AI hardware gets faster, cheaper, and more energy efficient.  New research suggests that machine learning \nhardware performance, measured in 16-bit floating-point operations, has grown 43% annually, doubling every 1.9 years. Price \nperformance has improved, with costs dropping 30% per year, while energy efficiency has increased by 40% annually.\n9. Carbon emissions from AI training are steadily increasing. Training early AI models, such as AlexNet (2012), had \nmodest amounts of carbon emissions at 0.01 tons. More recent models have significantly higher emissions for training: GPT-3 \n(2020) at 588 tons, GPT-4 (2023) at 5,184 tons, and Llama 3.1 405B (2024) at 8,930 tons. For perspective, the average American"
+  },
+  {
+    "chunk_id": "fixed_5_2",
+    "method": "fixed_size",
+    "page": 5,
+    "text": "(2020) at 588 tons, GPT-4 (2023) at 5,184 tons, and Llama 3.1 405B (2024) at 8,930 tons. For perspective, the average American \nemits 18 tons of carbon per year."
+  },
+  {
+    "chunk_id": "fixed_6_0",
+    "method": "fixed_size",
+    "page": 6,
+    "text": "Table of Contents 29\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n242.74\n2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023\n0\n50\n100\n150\n200\n250\nNumber of AI publications in CS (in thousands)\nNumber of AI publications in CS worldwide, 2013–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\n1.1 Publications\nThe figures below show the global count of English-language \nAI publications from 2010 to 2023, categorized by affiliation \ntype, publication type, and region. New to this year’s report, \nthe AI Index includes a section analyzing trends among the \n100 most-cited AI publications, which can offer insights \ninto particularly high-impact research. This year, the AI \nIndex analyzed AI publication trends using the OpenAlex \ndatabase. As a result, the numbers in this year’s report differ \nslightly from those in previous editions.1 Given that there is a \nsignificant lag in the collection of publication metadata, and"
+  },
+  {
+    "chunk_id": "fixed_6_1",
+    "method": "fixed_size",
+    "page": 6,
+    "text": "slightly from those in previous editions.1 Given that there is a \nsignificant lag in the collection of publication metadata, and \nthat in some cases it takes until the middle of any given year \nto fully capture the previous year’s publications, in this year’s \nreport, the AI Index team elected to examine publication \ntrends only through 2023.\nOverview\nThe following section reports on trends in the total number of \nEnglish-language AI publications. \nTotal Number of AI Publications\nFigure 1.1.1 displays the global count of AI publications. These \nare the publications with a computer science (CS) label in the \nOpenAlex catalog that were classified by the AI Index as being \nrelated to AI.2 Between 2013 and 2023, the total number of AI \n1.1 Publications\nChapter 1: Research and Development\nFigure 1.1.1\n1 OpenAlex is a fully open catalog of scholarly metadata, including scientific papers, authors, institutions, and more. The AI Index used OpenAlex as a bibliographic database and"
+  },
+  {
+    "chunk_id": "fixed_6_2",
+    "method": "fixed_size",
+    "page": 6,
+    "text": "automatically classified AI-related research using the latest version of the CSO Classifier. In previous years, the Index relied on third-party providers with different underlying data sources \nand classification methods. As a result, this year’s findings differ slightly from those included in previous reports. Additionally, the AI Index applied the classifier only to papers that OpenAlex \ncategorized under the broad field of computer science. This approach may have led to an undercount of AI-related publications by excluding research from fields like social sciences that \nemploy AI methodologies but fall outside the computer science–designated classification.\n2 The CSO Classifier (v3.3) is an automated text classification system designed to categorize research papers in computer science using a comprehensive ontology of 15,000 topics and"
+  },
+  {
+    "chunk_id": "fixed_6_3",
+    "method": "fixed_size",
+    "page": 6,
+    "text": "166,000 relationships, including emerging fields like GenAI, LLMs, and prompt engineering. It processes metadata (such as title and abstract) through three modules: a syntactic module for \nexact topic matches, a semantic module leveraging word embeddings to infer related topics, and a post-processing module that refines results by filtering outliers and adding relevant higher-\nlevel areas."
+  },
+  {
+    "chunk_id": "fixed_7_0",
+    "method": "fixed_size",
+    "page": 7,
+    "text": "Table of Contents 30\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\npublications more than doubled, rising from approximately \n102,000 in 2013 to more than 242,000 in 2023. The increase \nover the last year was a meaningful 19.7%. Many fields within \ncomputer science, from hardware and software engineering \nto human-computer interaction, are now contributing to \nAI. As a result, the observed growth reflects a broader and \nincreased interest in AI across the discipline.\n2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023\n0%\n5%\n10%\n15%\n20%\n25%\n30%\n35%\n40%\n45%\nAI publications in CS (% of total)\n41.76%\nAI publications in CS (% of total) worldwide, 2013–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.1.2\n1.1 Publications\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_8_0",
+    "method": "fixed_size",
+    "page": 8,
+    "text": "Table of Contents 31\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nFigure 1.1.2 shows the proportion of computer science \npublications in the OpenAlex corpus classified as AI-related. \nFigure 1.1.2 features the same data included in Figure 1.1.1 but \nin a proportional form. The share of AI publications has grown \nsignificantly, almost doubling from 2013 to 2023.\nBy Venue\nAI researchers publish their work across various venues. \nFigure 1.1.3 visualizes the total number of AI publications \nby venue type. In 2023, journals accounted for the largest \nshare of AI publications (41.8%), followed by conferences \n(34.3%). Even though the total number of journal and \nconference publications has increased since 2013, the share \nof AI publications in journals and conferences has steadily \ndeclined, from 52.6% and 36.4% in 2013 to 41.8% and \n34.3%, respectively, in 2023. Conversely, AI publications in \nrepositories like arXiv have seen a growing share.\n1.1 Publications"
+  },
+  {
+    "chunk_id": "fixed_8_1",
+    "method": "fixed_size",
+    "page": 8,
+    "text": "34.3%, respectively, in 2023. Conversely, AI publications in \nrepositories like arXiv have seen a growing share.\n1.1 Publications\nChapter 1: Research and Development\n2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023\n0\n20\n40\n60\n80\n100\nNumber of AI publications in CS (in thousands)\n0.96, Dissertation\n1.64, Other\n10.73, Book\n44.54, Repository\n83.30, Conference\n101.57, Journal\nNumber of AI publications in CS by venue type, 2013–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.1.3"
+  },
+  {
+    "chunk_id": "fixed_9_0",
+    "method": "fixed_size",
+    "page": 9,
+    "text": "Table of Contents 32\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nBy National Affiliation\nFigure 1.1.4 visualizes AI publications over time by region. 3 \nIn 2023, East Asia and the Pacific led AI research output, \naccounting for 34.5% of all AI publications, followed by \nEurope and Central Asia (18.2%) and North America (10.3%).4\nWhile Figure 1.1.4 examines the geographic distribution of \nAI publications, identifying which regions produce the most \nresearch, Figure 1.1.5 focuses on citations, measuring the share \nof total AI publication citations attributed to work originating \nfrom each region. As of 2023, AI publications from East Asia \nand the Pacific accounted for the largest share of AI article \ncitations at 37.1% (Figure 1.1.5). In 2017, citation shares from \nEast Asia and the Pacific and North America were roughly \nequal, but since then, North American and European citation \nshares have declined, while East Asia and the Pacific’s share \nhas risen sharply."
+  },
+  {
+    "chunk_id": "fixed_9_1",
+    "method": "fixed_size",
+    "page": 9,
+    "text": "equal, but since then, North American and European citation \nshares have declined, while East Asia and the Pacific’s share \nhas risen sharply.\n1.1 Publications\nChapter 1: Research and Development\n2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023\n0%\n5%\n10%\n15%\n20%\n25%\n30%\n35%\nAI publications in CS (% of total)\n0.89%, Sub-Saharan Africa\n1.66%, Latin America and the Caribbean\n5.18%, Middle East and North Africa\n9.98%, South Asia\n10.31%, North America\n18.15%, Europe and Central Asia\n19.37%, Unknown\n34.46%, East Asia and Pacic\nAI publications in CS (% of total) by region, 2013–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.1.4\n3 Regions in this chapter are classified according to the World Bank analytical grouping. The AI Index determines the country affiliation of authors using the “countries” field from the"
+  },
+  {
+    "chunk_id": "fixed_9_2",
+    "method": "fixed_size",
+    "page": 9,
+    "text": "authorship data. This field lists all the countries an author is affiliated with, as retrieved from OpenAlex based on institutional affiliations. These affiliations can be explicitly stated in the paper \nor inferred from the author’s most recent publications. When counting publications by country, the AI Index assigns one count to each country linked to the publication. For example, if a \npaper has three authors, two affiliated with institutions in the U.S. and one in China, the publication is counted once for the U.S. and once for China.\n4 A publication may have an “unknown” country affiliation when the author’s institutional affiliation is missing or incomplete. This issue arises due to various factors, including unstructured or \nomitted institution names, platform functional deficiencies, group authorship practices, unstandardized affiliation labeling, document type inconsistencies, or the author’s limited publication"
+  },
+  {
+    "chunk_id": "fixed_9_3",
+    "method": "fixed_size",
+    "page": 9,
+    "text": "record. The problem as it relates to OpenAlex is addressed in this paper; however, the issue of missing institutions pertains to other bibliographic databases as well."
+  },
+  {
+    "chunk_id": "fixed_10_0",
+    "method": "fixed_size",
+    "page": 10,
+    "text": "Table of Contents 33\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n1.1 Publications\nChapter 1: Research and Development\n2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023\n0%\n5%\n10%\n15%\n20%\n25%\n30%\n35%\n40%\nAI publication citations in CS (% of total)\n0.89%, Sub-Saharan Africa\n1.35%, Latin America and the Caribbean\n7.55%, Unknown\n7.69%, South Asia\n7.97%, Middle East and North Africa\n15.59%, North America\n21.88%, Europe and Central Asia\n37.07%, East Asia and Pacic\nAI publication citations in CS (% of total) by region, 2013–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.1.5"
+  },
+  {
+    "chunk_id": "fixed_11_0",
+    "method": "fixed_size",
+    "page": 11,
+    "text": "Table of Contents 34\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nIn 2023, China was the global leader in AI article publications, \naccounting for 23.2% of the total, compared to 15.2% from \nEurope and 9.2% from India (Figure 1.1.6).5 Since 2016, China’s \nshare has steadily increased, while the proportion attributed \nto Europe has declined. AI publications attributed to the \nUnited States remained relatively stable until 2021 but have \nshown a slight decline since then.\n2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023\n0%\n5%\n10%\n15%\n20%\n25%\nAI publications in CS (% of total)\n9.20%, United States\n9.22%, India\n15.22%, Europe\n20.65%, Unknown\n22.51%, Rest of the world\n23.20%, China\nAI publications in CS (% of total) by select geographic areas, 2013–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.1.66\n1.1 Publications\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_11_1",
+    "method": "fixed_size",
+    "page": 11,
+    "text": "Source: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.1.66\n1.1 Publications\nChapter 1: Research and Development\n5 For the “Europe” designation in this and other chapters of the report, the AI Index follows the list of countries defined by the United Nations Statistics Division.\n6 To maintain concision, the AI Index visualized results for a select group of countries. However, full results for all countries will be available on the AI Index’s Global Vibrancy Tool, which is set \nto be updated in summer 2025. For immediate access to country-specific research and development data, please contact the AI Index team."
+  },
+  {
+    "chunk_id": "fixed_12_0",
+    "method": "fixed_size",
+    "page": 12,
+    "text": "Table of Contents 35\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nIn 2023, Chinese AI publications accounted for 22.6% of all AI citations, followed by Europe at 20.9% and the United States at \n13.0% (Figure 1.1.7). As with total AI publications, the late 2010s marked a turning point when China surpassed Europe and the \nU.S. as the leading source of AI publication citations.\n2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023\n0%\n5%\n10%\n15%\n20%\n25%\n30%\n35%\nAI publication citations in CS (% of total)\n6.10%, India\n7.54%, Unknown\n13.03%, United States\n20.90%, Europe\n22.60%, China\n29.83%, Rest of the world\nAI publication citations in CS (% of total) by select geographic areas, 2013–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.1.7\n1.1 Publications\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_13_0",
+    "method": "fixed_size",
+    "page": 13,
+    "text": "Table of Contents 36\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nBy Sector\nAcademic institutions remain the primary source of AI \npublications worldwide (Figure 1.1.8). In 2013, they accounted \nfor 85.9% of all AI publications, a figure that remained high, \nat 84.9%, in 2023. Industry contributed 7.1% of AI publications \nin 2023, followed by government institutions at 4.9% and \nnonprofit organizations at 1.7%.\n2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023\n0%\n10%\n20%\n30%\n40%\n50%\n60%\n70%\n80%\n90%\nAI publications in CS (% of total)\n1.35%, Other\n1.70%, Nonprot\n4.90%, Government\n7.14%, Industry\n84.91%, Academia\nAI publications in CS (% of total) by sector, 2013–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.1.87\n1.1 Publications\nChapter 1: Research and Development\n7 For Figures 1.1.8 and 1.1.9, publications with unknown affiliations were excluded from the final visualization."
+  },
+  {
+    "chunk_id": "fixed_14_0",
+    "method": "fixed_size",
+    "page": 14,
+    "text": "Table of Contents 37\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nAI publications emerge from various sectors in differing \nproportions across geographic regions. In the United States, \na higher share of AI publications (16.5%) comes from industry \ncompared to China (8.0%) (Figure 1.1.9). Among major \ngeographic areas, China has the highest percentage of AI \npublications originating from the education sector (84.5%).\n75.61%\n16.49%\n4.02%\n3.88%\n79.49%\n9.62%\n6.79%\n4.09%\n84.45%\n8.02%\n6.96%\n0.58%\n0% 10% 20% 30% 40% 50% 60% 70% 80% 90%\nGovernment\nNonprot\nIndustry\nAcademia\nUnited States\nEurope\nChina\nAI publications (% of total)\nAI publications in CS (% of total) by sector and select geographic areas, 2023\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.1.9\n1.1 Publications\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_15_0",
+    "method": "fixed_size",
+    "page": 15,
+    "text": "Table of Contents 38\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nBy Topic\nMachine learning was the most prevalent research topic in \nAI publications in 2023, comprising 75.7% of publications, \nfollowed by computer vision (47.2%), pattern recognition \n(25.9%) and natural language processing (17.1%) (Figure \n1.1.10). Over the past year, there has been a sharp increase in \npublications on generative AI.\n2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023\n0\n50\n100\n150\nNumber of AI publications (in thousands)\n5.25, Robotics\n11.28, Multi-agent systems\n12.00, Logic and reasoning\n13.07, Generative AI\n17.34, Evolutionary computation\n21.82, Knowledge based systems\n41.40, Natural language processing\n62.90, Pattern recognition\n114.61, Computer vision\n183.78, Machine learning\nNumber of AI publications by select top topics, 2013–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.1.108\n1.1 Publications\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_15_1",
+    "method": "fixed_size",
+    "page": 15,
+    "text": "Source: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.1.108\n1.1 Publications\nChapter 1: Research and Development\n8 The AI Index categorized papers using its own topic classifier. It is possible for a single publication to be assigned multiple topic labels."
+  },
+  {
+    "chunk_id": "fixed_16_0",
+    "method": "fixed_size",
+    "page": 16,
+    "text": "Table of Contents 39\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n50\n34\n7\n7\n6\n6\n5\n4\n4\n4\n59\n34\n7\n6\n4\n4\n3\n3\n2\n1\n64\n33\n10\n8\n7\n7\n4\n3\n1\n1\n0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66\nSingapore\nIsrael\nUnited Arab Emirates\nUnited Kingdom\nSouth Korea\nCanada\nHong Kong\nGermany\nChina\nUnited States\n2023\n2022\n2021\nNumber of highly cited publications in top 100\nNumber of highly cited publications in top 100 by select geographic areas, 2021–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.1.11\nTop 100 Publications\nWhile tracking total AI publications provides a broad view of \nresearch activity, focusing on the most-cited papers offers a \nperspective of the field’s most influential work. This analysis \nsheds light on where some of the most groundbreaking and \ninfluential AI research is emerging. This year, the AI Index \nidentified the 100 most-cited AI publications in 2021, 2022,"
+  },
+  {
+    "chunk_id": "fixed_16_1",
+    "method": "fixed_size",
+    "page": 16,
+    "text": "influential AI research is emerging. This year, the AI Index \nidentified the 100 most-cited AI publications in 2021, 2022, \nand 2023, using citation data from OpenAlex. This analysis \nwas further supplemented with insights from Google Scholar \nand Semantic Scholar. 9 Some of the most highly cited AI \npublications in 2023 included OpenAI’s GPT-4 technical \nreport, Meta’s Llama 2 technical report, and Google’s PaLM-E \ntechnical report. It is important to note that due to citation \nlag, the most-cited papers in this year’s report may change \nin future editions.\nBy National Affiliation\nFigure 1.1.11 illustrates the geographic distribution of the top \n100 most-cited AI publications by year. From 2021 to 2023, \nthe U.S. consistently had the highest number of top-cited \npublications, with 64 in 2021, 59 in 2022, and 50 in 2023. 10 \nIn each of these years, China ranked second. Since 2021, the \nU.S. share of top AI publications has gradually declined.\n1.1 Publications"
+  },
+  {
+    "chunk_id": "fixed_16_2",
+    "method": "fixed_size",
+    "page": 16,
+    "text": "In each of these years, China ranked second. Since 2021, the \nU.S. share of top AI publications has gradually declined.\n1.1 Publications\nChapter 1: Research and Development\n9 The full methodological guide can be accessed in the Appendix, along with the list of the top 100 articles. \n10 A publication can have multiple authors from different countries or organizations. For example, if a paper includes authors from multiple countries, each country is credited once. As a \nresult, the totals in this section’s figures exceed 100."
+  },
+  {
+    "chunk_id": "fixed_17_0",
+    "method": "fixed_size",
+    "page": 17,
+    "text": "Table of Contents 40\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n42\n7\n25 24\n2\n27\n19\n35\n17\n34\n17\n31\n17\n1\nAcademia Industry Industry and academia Mixed Other\n0\n5\n10\n15\n20\n25\n30\n35\n40\n45 2023\n2022\n2021\nSector\nNumber of highly cited publications in top 100\nNumber of highly cited publications in top 100 by sector, 2021–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.1.1211\nBy Sector\nAcademia consistently produces the most top-cited AI \npublications, with 42 in 2023, 27 in 2022, and 34 in 2021 \n(Figure 1.1.12). Notably, there was a sharp decline in industry \ncontributions, with the number of top 100 publications \ndropping from 17 in 2021 and 19 in 2022 to just 7 in 2023. \nAs AI research grows more competitive, many industrial AI \nlabs are publishing less frequently or disclosing fewer details \nabout their research in their publications. \n1.1 Publications\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_17_1",
+    "method": "fixed_size",
+    "page": 17,
+    "text": "about their research in their publications. \n1.1 Publications\nChapter 1: Research and Development\n11 The “mixed” designation includes all intersector collaborations that are not industry and academia (e.g., industry and government, academia and nonprofit). Some institutions lack data \nfor 2021 because they did not have papers included in the top 100 that year. Since papers can have multiple authors from different institutions, the total institutional tags in Figure 1.1.12 may \nexceed 100. Also, because two of the papers had authors with an unknown sectoral affiliation, the total sum of publications in Figure 1.1.12 is 98."
+  },
+  {
+    "chunk_id": "fixed_18_0",
+    "method": "fixed_size",
+    "page": 18,
+    "text": "Table of Contents 41\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nBy Organization\nFigure 1.1.13 highlights the organizations that produced the \ntop 100 most-cited AI publications from 2021 to 2023. Some \norganizations may have empty bars on the chart if they lacked \na top 100 publication in a given year. Additionally, Figure 1.1.13 \nhighlights only the top 10 institutions, though many others \ncontribute significant research.\nGoogle led each year, but it tied with Tsinghua University in \n2023, when both contributed eight publications to the top \n100. In 2023, Carnegie Mellon University was the highest-\nranked U.S. academic institution. \n8 8\n6 6\n5 5 5\n4 4 4\n20\n10\n99\n4\n33\n22 2\n15\n10\n7\n5\n2 2\n1\nGoogle Tsinghua\nUniversity\nCarnegie Mellon\nUniversity\nMicrosoft Beijing Academy of\nArticial Intelligence\nHong Kong University of\nScience and Technology\nShanghai\nAI Laboratory\nChinese Academy\nof Sciences\nMeta Nvidia\n0\n2\n4\n6\n8\n10\n12\n14\n16\n18\n20\n22 2023\n2022\n2021\nOrganization"
+  },
+  {
+    "chunk_id": "fixed_18_1",
+    "method": "fixed_size",
+    "page": 18,
+    "text": "Science and Technology\nShanghai\nAI Laboratory\nChinese Academy\nof Sciences\nMeta Nvidia\n0\n2\n4\n6\n8\n10\n12\n14\n16\n18\n20\n22 2023\n2022\n2021\nOrganization\nNumber of highly cited publications in top 100\nNumber of highly cited publications in top 100 by organization, 2021–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.1.13\n1.1 Publications\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_19_0",
+    "method": "fixed_size",
+    "page": 19,
+    "text": "Table of Contents 42\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nThis section examines trends over time in global \nAI patents, which can reveal important insights \ninto the evolution of innovation, research, and \ndevelopment within AI. Additionally, analyzing \nAI patents can reveal how these advances are \ndistributed globally. Similar to the publications \ndata, there is a noticeable delay in AI patent \ndata availability, with 2023 being the most \nrecent year for which data is accessible. The \ndata in this section is sourced from patent-\nlevel bibliographic records in PATSTAT Global, \na comprehensive database provided by the \nEuropean Patent Office (EPO).12\n122.51\n2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023\n0\n20\n40\n60\n80\n100\n120\nNumber of AI patents granted (in thousands)\nNumber of AI patents granted worldwide, 2010–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.2.1\n1.2 Patents\nOverview"
+  },
+  {
+    "chunk_id": "fixed_19_1",
+    "method": "fixed_size",
+    "page": 19,
+    "text": "Number of AI patents granted worldwide, 2010–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nFigure 1.2.1\n1.2 Patents\nOverview\nFigure 1.2.1 examines the global growth in granted AI patents from 2010 to \n2023. Over the past dozen years, the number of AI patents has grown steadily \nand significantly, increasing from 3,833 in 2010 to 122,511 in 2023. In the last \nyear, the number of AI patents has risen 29.6%.  \n1.2 Patents\nChapter 1: Research and Development\n12 More details on the methodology behind the patent analysis in this section can be found in the Appendix."
+  },
+  {
+    "chunk_id": "fixed_20_0",
+    "method": "fixed_size",
+    "page": 20,
+    "text": "Table of Contents 43\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023\n0%\n10%\n20%\n30%\n40%\n50%\n60%\n70%\n80%\n90%\nGranted AI patents (% of world total)\n0.02%, Sub-Saharan Africa\n0.02%, Middle East and North Africa\n0.04%, Latin America and the Caribbean\n0.15%, Rest of the world\n0.37%, South Asia\n2.77%, Europe and Central Asia\n14.23%, North America\n82.40%, East Asia and Pacic\nGranted AI patents (% of world total) by region, 2010–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nBy National Affiliation\nFigure 1.2.2 showcases the regional breakdown of granted \nAI patents, as in the number of patents filed in different \nregions across the world. As of 2023, the bulk of the world’s \ngranted AI patents (82.4%) originated from East Asia and \nthe Pacific, with North America being the next largest \ncontributor at 14.2%. Since 2010, the gap in AI patent grants \nbetween East Asia and the Pacific and North America has"
+  },
+  {
+    "chunk_id": "fixed_20_1",
+    "method": "fixed_size",
+    "page": 20,
+    "text": "contributor at 14.2%. Since 2010, the gap in AI patent grants \nbetween East Asia and the Pacific and North America has \nsteadily widened. \nFigure 1.2.213\n1.2 Patents\nChapter 1: Research and Development\n13 Patent standards and laws vary across countries and regions, so these charts should be interpreted with caution. More detailed country-level patent information will be released in a \nsubsequent edition of the AI Index’s Global Vibrancy Tool."
+  },
+  {
+    "chunk_id": "fixed_21_0",
+    "method": "fixed_size",
+    "page": 21,
+    "text": "Table of Contents 44\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nDisaggregated by geographic area, the majority of the \nworld’s granted AI patents are from China (69.7%) and the \nUnited States (14.2%) (Figure 1.2.3). The share of AI patents \noriginating from the United States has declined from a peak \nof 42.8% in 2015. \nFigure 1.2.3 and Figure 1.2.4 document which countries lead \nin AI patents per capita. In 2023, the country with the most \ngranted AI patents per 100,000 inhabitants was South Korea \n(17.3), followed by Luxembourg (15.3) and China (6.1) (Figure \n1.2.3). Figure 1.2.5 highlights the change in granted AI patents \nper capita from 2013 to 2023. Luxembourg, China and \nSweden experienced the greatest increase in AI patenting \nper capita during that time period.\nFigure 1.2.3\n2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023\n0%\n10%\n20%\n30%\n40%\n50%\n60%\n70%\nGranted AI patents (% of world total)\n0.37%, India\n2.77%, Europe\n13.00%, Rest of the world"
+  },
+  {
+    "chunk_id": "fixed_21_1",
+    "method": "fixed_size",
+    "page": 21,
+    "text": "0%\n10%\n20%\n30%\n40%\n50%\n60%\n70%\nGranted AI patents (% of world total)\n0.37%, India\n2.77%, Europe\n13.00%, Rest of the world\n14.16%, United States\n69.70%, China\nGranted AI patents (% of world total) by select geographic areas, 2010–23\nSource: AI Index, 2025 | Chart: 2025 AI Index report\n1.2 Patents\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_22_0",
+    "method": "fixed_size",
+    "page": 22,
+    "text": "Table of Contents 45\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nFigure 1.2.4\nFigure 1.2.5\n0.27\n0.38\n0.40\n0.43\n0.47\n0.52\n0.74\n0.97\n0.98\n1.22\n4.58\n5.20\n6.08\n15.31\n17.27\n0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18\nGreece\nAustralia\nNetherlands\nFrance\nDenmark\nUnited Kingdom\nSweden\nFinland\nSingapore\nGermany\nJapan\nUnited States\nChina\nLuxembourg\nSouth Korea\nGranted AI patents (per 100,000 inhabitants)\nGranted AI patents per 100,000 inhabitants by country, 2023\nSource: AI Index, 2025 | Chart: 2025 AI Index report\n230%\n240%\n365%\n463%\n580%\n730%\n1,028%\n1,043%\n1,097%\n1,653%\n2,546%\n2,851%\n3,453%\n6,317%\n8,216%\n0% 1,000% 2,000% 3,000% 4,000% 5,000% 6,000% 7,000% 8,000%\nDenmark\nAustralia\nJapan\nFrance\nUnited States\nUnited Kingdom\nNetherlands\nSouth Korea\nGermany\nFinland\nSingapore\nGreece\nSweden\nChina\nLuxembourg\n% change of granted AI patents (per 100,000 inhabitants)\nSource: AI Index, 2025 | Chart: 2025 AI Index report"
+  },
+  {
+    "chunk_id": "fixed_22_1",
+    "method": "fixed_size",
+    "page": 22,
+    "text": "Greece\nSweden\nChina\nLuxembourg\n% change of granted AI patents (per 100,000 inhabitants)\nSource: AI Index, 2025 | Chart: 2025 AI Index report\nPercentage change of granted AI patents per 100,000 inhabitants by country, 2013 vs. 2023\n1.2 Patents\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_23_0",
+    "method": "fixed_size",
+    "page": 23,
+    "text": "Table of Contents 46\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n1\n1\n1\n1\n3\n15\n40\n0 5 10 15 20 25 30 35 40\nSouth Korea\nSaudi Arabia\nIsrael\nCanada\nFrance\nChina\nUnited States\nNumber of notable AI models\nNumber of notable AI models by select geographic\nareas, 2024\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\n2003\n2006\n2009\n2012\n2015\n2018\n2021\n2024\n0\n10\n20\n30\n40\n50\n60\n70\nNumber of notable AI models\n3, Europe\n15, China\n40, United States\nNumber of notable AI models by select geographic\nareas, 2003–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\n1.3 Notable AI Models\nBy National Affiliation\nTo illustrate the evolving geopolitical landscape of AI, the AI Index shows \nthe country of origin of notable models. Figure 1.3.1 displays the total number \nof notable AI models attributed to the location of researchers’ affiliated \ninstitutions.16 In 2024, the United States led with 40 notable AI models, \nfollowed by China with 15 and France with three. All major geographic"
+  },
+  {
+    "chunk_id": "fixed_23_1",
+    "method": "fixed_size",
+    "page": 23,
+    "text": "institutions.16 In 2024, the United States led with 40 notable AI models, \nfollowed by China with 15 and France with three. All major geographic \ngroups, including the United States, China, and Europe, reported releasing \nfewer notable models in 2024 than in the previous year (Figure 1.3.2). Since \n2003, the United States has produced more models than other major \ncountries such as the United Kingdom, China, and Canada (Figure 1.3.3).\nIt is difficult to pinpoint the exact cause of the decline in total model \nreleases, but it may stem from a combination of factors: increasingly large \ntraining runs, the growing complexity of AI technology, and the heightened \nchallenge of developing new modeling approaches. Epoch AI’s curation of \nFigure 1.3.117 Figure 1.3.2\nThis section explores notable AI models.14 Epoch AI, \nan AI Index data provider, uses the term “notable \nmachine learning models” to designate particularly \ninfluential models within the AI/machine learning"
+  },
+  {
+    "chunk_id": "fixed_23_2",
+    "method": "fixed_size",
+    "page": 23,
+    "text": "machine learning models” to designate particularly \ninfluential models within the AI/machine learning \necosystem. Epoch maintains a database of 900 \nAI models released since the 1950s, selecting \nentries based on criteria such as state-of-the-art \nadvancements, historical significance, or high \ncitation rates. Since Epoch manually curates \nthe data, some models considered notable by \nsome may not be included. Analyzing these \nmodels provides a comprehensive overview of \nthe machine learning landscape’s evolution, both \nin recent years and over the past few decades. 15 \nSome models may be missing from the dataset; \nhowever, the dataset can reveal trends in relative \nterms. Examples of notable AI models include \nGPT-4o, Claude 3.5, and AlphaGeometry. \nWithin this section, the AI Index explores trends \nin notable models from various perspectives, \nincluding country of origin, originating \norganization, gradient of model release, parameter"
+  },
+  {
+    "chunk_id": "fixed_23_3",
+    "method": "fixed_size",
+    "page": 23,
+    "text": "in notable models from various perspectives, \nincluding country of origin, originating \norganization, gradient of model release, parameter \ncount, and compute usage. The analysis concludes \nwith an examination of machine learning training \nas well as inference costs.\n1.3 Notable AI Models\nChapter 1: Research and Development\n14 “AI system” refers to a computer program or product based on AI, such as ChatGPT. “AI model” includes a collection of parameters whose values are learned during training, such as GPT-4.\n15 New and historic models are continually added to the Epoch AI database, so the total year-by-year counts of models included in this year’s AI Index might not exactly match those \npublished in last year’s report. The data is from a snapshot taken on March 17, 2025. \n16 A machine learning model is associated with a specific country if at least one author of the paper introducing it has an affiliation with an institution based in that country. In cases where a"
+  },
+  {
+    "chunk_id": "fixed_23_4",
+    "method": "fixed_size",
+    "page": 23,
+    "text": "model’s authors come from several countries, double-counting can occur.\n17 This chart highlights model releases from a select group of geographic areas. More comprehensive data on model releases by country will be available in the upcoming AI Index Global \nVibrancy Tool release."
+  },
+  {
+    "chunk_id": "fixed_24_0",
+    "method": "fixed_size",
+    "page": 24,
+    "text": "Table of Contents 47\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n1–10\n11–20\n21–60\n61–100\n101–560\nNumber of notable AI models by geographic area, 2003–24 (sum)\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nnotable models may overlook releases from certain countries \nthat receive less coverage. The AI Index, in cooperation with \nEpoch, is committed to improving global representation in \nthe AI model ecosystem. If readers believe that models from \nspecific countries are missing, they are encouraged to contact \nthe AI Index team, which will work to address the issue.\nFigure 1.3.3\n1.3 Notable AI Models\nChapter 1: Research and Development\nBy Sector\nFigure 1.3.4 illustrates the sectoral origin of notable AI releases \nby the year the models were released. Epoch categorizes \nmodels based on their source: Industry includes companies \nsuch as Google, Meta, and OpenAI; academia covers \nuniversities like Tsinghua, MIT, and Oxford; government"
+  },
+  {
+    "chunk_id": "fixed_24_1",
+    "method": "fixed_size",
+    "page": 24,
+    "text": "such as Google, Meta, and OpenAI; academia covers \nuniversities like Tsinghua, MIT, and Oxford; government \nrefers to state-affiliated research institutes like the UK’s Alan \nTuring Institute for AI and Abu Dhabi’s Technology Innovation \nInstitute; and research collectives encompass nonprofit AI \nresearch organizations such as the Allen Institute for AI and \nthe Fraunhofer Institute.\nUntil 2014, academia led in terms of releasing machine \nlearning models. Since then, industry has taken the lead. \nAccording to Epoch AI, in 2024, industry produced 55 notable \nAI models. That same year, Epoch AI identified no notable \nAI models originating from academia (Figure 1.3.5). 18 Over \ntime, industry-academia collaborations have contributed to \na growing number of models. The proportion of notable AI \nmodels originating from industry has steadily increased over \nthe past decade, growing to 90.2% in 2024."
+  },
+  {
+    "chunk_id": "fixed_24_2",
+    "method": "fixed_size",
+    "page": 24,
+    "text": "models originating from industry has steadily increased over \nthe past decade, growing to 90.2% in 2024.\n18 This figure should be interpreted with caution. A count of zero academic models does not mean that no notable models were produced by academic institutions in 2023, but rather that \nEpoch AI has not identified any as notable. Additionally, academic publications often take longer to gain recognition, as highly cited papers introducing significant architectures may take \nyears to achieve prominence."
+  },
+  {
+    "chunk_id": "fixed_25_0",
+    "method": "fixed_size",
+    "page": 25,
+    "text": "Table of Contents 48\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n2003\n2004\n2005\n2006\n2007\n2008\n2009\n2010\n2011\n2012\n2013\n2014\n2015\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n0%\n20%\n40%\n60%\n80%\n100%Notable AI models (% of total)\n0.00%, Academia\n0.00%, Academia–government collaboration\n0.00%, Academia–research collective collaboration\n0.00%, Research collective\n0.00%, Industry–research collective collaboration\n0.00%, Government\n1.64%, Industry–government collaboration\n8.20%, Industry–academia collaboration\n90.16%, Industry\nNotable AI models (% of total) b y sector, 2003–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\n2003\n2004\n2005\n2006\n2007\n2008\n2009\n2010\n2011\n2012\n2013\n2014\n2015\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n0\n10\n20\n30\n40\n50\n60\nNumber of notable AI models\n0, Academia\n0, Academia–government collaboration\n0, Academia–research collective collaboration\n0, Research collective\n0, Industry–research collective collaboration\n0, Government"
+  },
+  {
+    "chunk_id": "fixed_25_1",
+    "method": "fixed_size",
+    "page": 25,
+    "text": "0, Academia–research collective collaboration\n0, Research collective\n0, Industry–research collective collaboration\n0, Government\n1, Industry–government collaboration\n5, Industry–academia collaboration\n55, Industry\nNumber of notable AI models by sector, 2003–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.3.4\nFigure 1.3.5\n1.3 Notable AI Models\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_26_0",
+    "method": "fixed_size",
+    "page": 26,
+    "text": "Table of Contents 49\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n7\n7\n6\n4\n4\n4\n3\n3\n2\n2\n2\n2\n2\n2\n2\n0 1 2 3 4 5 6 7\nZhipu AI\nWriter\nUC Berkeley\nTencent\nMIT\nDeepSeek\nByteDance\nMistral AI\nAnthropic\nNvidia\nMeta\nApple\nAlibaba\nOpenAI\nGoogle\nAcademia\nIndustry\nNumber of notable AI models\nNumber of notable AI models by organization, 2024\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\n187\n82\n39\n36\n25\n25\n22\n22\n17\n16\n15\n15\n15\n14\n12\n0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190\nAllen Institute for AI\nAlibaba\nUniversity of Washington\nSalesforce\nMIT\nUniversity of Oxford\nNvidia\nUC Berkeley\nTsinghua University\nStanford University\nCarnegie Mellon University\nOpenAI\nMicrosoft\nMeta\nGoogle\nAcademia\nIndustry\nResearch collective\nNumber of notable AI models\nNumber of notable AI models by organization, 2014–24 (sum)\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nBy Organization\nFigure 1.3.6 and Figure 1.3.7 highlight the organizations leading"
+  },
+  {
+    "chunk_id": "fixed_26_1",
+    "method": "fixed_size",
+    "page": 26,
+    "text": "Source: Epoch AI, 2025 | Chart: 2025 AI Index report\nBy Organization\nFigure 1.3.6 and Figure 1.3.7 highlight the organizations leading \nin the production of notable machine learning models in 2024 \nand over the past decade.  In 2024, the top contributors were \nGoogle (7), OpenAI (7 models),  and Alibaba (6). Since 2014, \nGoogle has led with 187 notable models, followed by Meta (82) \nand Microsoft (39). Among academic institutions, Carnegie \nMellon University (25), Stanford University (25), and Tsinghua \nUniversity (22) have been the most prolific since 2014.\nFigure 1.3.619\nFigure 1.3.7\n1.3 Notable AI Models\nChapter 1: Research and Development\n19 In the organizational tally figures, research published by DeepMind is classified under Google."
+  },
+  {
+    "chunk_id": "fixed_27_0",
+    "method": "fixed_size",
+    "page": 27,
+    "text": "Table of Contents 50\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nModel Release\nMachine learning models are released under various \naccess types, each with varying levels of openness and \nusability. API access models, like OpenAI’s o1, allow users \nto interact with models via queries without direct access \nto their underlying weights. Open weights (restricted use) \nmodels, like DeepSeek’s-V3, provide access to their weights \nbut impose limitations, such as prohibiting commercial \nuse or redistribution. Hosted access (no API) models, like \nGemini 2.0 Pro, refer to models available through a platform \ninterface but without programmatic access. Open weights \n(unrestricted) models, like AlphaGeometry, are fully open, \nallowing free use, modification, and redistribution. Open \nweights (noncommercial) models, like Mistral Large 2, share \ntheir weights but restrict use to research or noncommercial \npurposes. Lastly, unreleased models, like ESM3 98B, remain"
+  },
+  {
+    "chunk_id": "fixed_27_1",
+    "method": "fixed_size",
+    "page": 27,
+    "text": "their weights but restrict use to research or noncommercial \npurposes. Lastly, unreleased models, like ESM3 98B, remain \nproprietary, accessible only to their developers or select \npartners. The unknown designation refers to models that \nhave unclear or undisclosed access types.\nFigure 1.3.8 illustrates the different access types under which \nmodels have been released. 20 In 2024, API access was the \nmost common release type, with 20 of 61 models made \navailable this way, followed by open weights with restricted \nuse and unreleased models.\nFigure 1.3.9 visualizes machine learning model access types \nover time from a proportional perspective. In 2024, most AI \nmodels were released via API access (32.8%), which has seen \na steady rise since 2020. \n12\n20\n9\n10\n12\n16\n11\n10\n27\n27\n32 20\n20\n10 19\n23\n36\n21\n19\n22\n14\n10\n30 19\n36\n38\n17\n13\n26\n30\n32\n28\n50\n58\n51\n72\n54\n75\n86\n105\n61\n2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n0\n20\n40\n60\n80\n100\n120"
+  },
+  {
+    "chunk_id": "fixed_27_2",
+    "method": "fixed_size",
+    "page": 27,
+    "text": "21\n19\n22\n14\n10\n30 19\n36\n38\n17\n13\n26\n30\n32\n28\n50\n58\n51\n72\n54\n75\n86\n105\n61\n2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n0\n20\n40\n60\n80\n100\n120\nAPI access Hosted access (no API) Open weights (noncommercial)\nOpen weights (restricted use) Open weights (unrestricted) Unreleased\nUnknown\nNumber of notable AI models\nNumber of notable AI models by access type, 2014–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.3.821\n1.3 Notable AI Models\nChapter 1: Research and Development\n20 Hosted access refers to using computing resources or services (such as software, hardware, or storage) provided remotely by a third party, rather than personally owning or managing \nthem. Instead of running software or infrastructure locally, hosted access involves accessing these resources via the cloud or another remote service, typically over the internet. For example,"
+  },
+  {
+    "chunk_id": "fixed_27_3",
+    "method": "fixed_size",
+    "page": 27,
+    "text": "using GPUs through platforms like AWS, Google Cloud, or Microsoft Azure—rather than running them on one’s own hardware—is considered hosted access.\n21 Not all models in the Epoch database are categorized by access type, so the totals in Figures 1.3.8 through 1.3.10 may not fully align with those reported elsewhere in the chapter."
+  },
+  {
+    "chunk_id": "fixed_28_0",
+    "method": "fixed_size",
+    "page": 28,
+    "text": "Table of Contents 51\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n1.3 Notable AI Models\nChapter 1: Research and Development\n2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n0%\n10%\n20%\n30%\n40%\n50%\n60%\n70%\n80%\n90%\n100%Notable AI models (% of total)\n3.28%, Unknown\n8.20%, Hosted access (no API)\n9.84%, Open weights (noncommercial)\n11.48%, Open weights (unrestricted)\n16.39%, Unreleased\n18.03%, Open weights (restricted use)\n32.79%, API access\nNotable AI models (% of total) by access type, 2014–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\n16\n33\n22\n29\n16 13\n11\n9\n11\n15\n26\n24\n29\n28\n37\n37\n30 21\n37\n40\n19\n14 38\n48\n18\n32\n28\n50\n58\n51\n72\n54\n75\n86\n105\n61\n2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n0\n20\n40\n60\n80\n100\n120\nOpen source Open (restricted use) Open (noncommercial) Unreleased Unknown\nNumber of notable AI models\nNumber of notable AI models by training code access type, 2014–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.3.9\nFigure 1.3.10"
+  },
+  {
+    "chunk_id": "fixed_28_1",
+    "method": "fixed_size",
+    "page": 28,
+    "text": "Number of notable AI models by training code access type, 2014–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.3.9\nFigure 1.3.10\nIn traditional open-source software releases, all components, \nincluding the training code, are typically made available. \nHowever, this is often not the case with AI technologies, \nwhere even developers who release model weights may \nwithhold the training code. Figure 1.3.10 categorizes notable \nAI models by the openness of their code release. In 2024, \nthe majority—60.7%—were launched without corresponding \ntraining code."
+  },
+  {
+    "chunk_id": "fixed_29_0",
+    "method": "fixed_size",
+    "page": 29,
+    "text": "Table of Contents 52\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n100\n10K\n1M\n100M\n10B\n1T\nAcademia\nAcademia–government\nIndustry\nIndustry–research collective\nIndustry–academia\nGovernment\nResearch collective\nPublication date\nNumber of parameters (log scale)\nNumber of parameters of notable AI models by sector, 2003–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nParameter Trends\nParameters in machine learning models are numerical \nvalues learned during training that determine how a model \ninterprets input data and makes predictions. Models with \nmore parameters require more data to be trained, but they \ncan take on more tasks and typically outperform models with \nfewer parameters.\nFigure 1.3.11 demonstrates the parameter count of machine \nlearning models in the Epoch dataset, categorized by \nthe sector from which the models originate. Figure 1.3.12"
+  },
+  {
+    "chunk_id": "fixed_29_1",
+    "method": "fixed_size",
+    "page": 29,
+    "text": "learning models in the Epoch dataset, categorized by \nthe sector from which the models originate. Figure 1.3.12 \nvisualizes the same data, but for a smaller selection of notable \nmodels. Parameter counts have risen sharply since the early \n2010s, reflecting the growing complexity of their architecture, \ngreater availability of data, improvements in hardware, and \nproven efficacy of larger models. High-parameter models are \nparticularly notable in the industry sector, underscoring the \nsubstantial financial resources available to industry to cover \nthe computational costs of training on vast volumes of data. \nSeveral of the figures below use a log scale to reflect the \nexponential growth in AI model parameters and compute in \nrecent years.\nFigure 1.3.11\n1.3 Notable AI Models\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_30_0",
+    "method": "fixed_size",
+    "page": 30,
+    "text": "Table of Contents 53\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n1.3 Notable AI Models\nChapter 1: Research and Development\nAlexNet\nDeepSeek-V3\nQwen2.5-72B\nMistral Large 2\nLlama 2-70B\nPaLM (540B)\nMegatron-Turing NLG 530B\nGPT-3 175B (davinci)\nBERT-Large\nTransformer\nERNIE 3.0 Titan\nRoBERTa Large\n2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n100M\n1B\n10B\n100B\n1T Academia Industry Industry–academia\nPublication date\nNumber of parameters (log scale)\nNumber of parameters of select notable AI models by sector, 2012–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.3.12"
+  },
+  {
+    "chunk_id": "fixed_31_0",
+    "method": "fixed_size",
+    "page": 31,
+    "text": "Table of Contents 54\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n10K\n1M\n100M\n10B\n1T\n100T\nPublication date\nTraining dataset size (tokens - log scale)\nTraining dataset size of notable AI models, 2010–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nLlama 3.1-405B\nTransformer\nGPT-3 175B (davinci)\nDeepSeek-V3\nPaLM (540B)\nGPT-4\nAlexNet\nQwen2.5-72B\nFigure 1.3.13\n1.3 Notable AI Models\nChapter 1: Research and Development\nAs model parameter counts have increased, so has the volume \nof data used to train AI systems. Figure 1.3.13 illustrates the \ngrowth in dataset sizes used to train notable machine learning \nmodels. The Transformer model, released in 2017 and widely \ncredited with sparking the large language model revolution, \nwas trained on approximately 2 billion tokens. By 2020, \nGPT-3 175B—one of the models underpinning the original \nChatGPT—was trained on an estimated 374 billion tokens."
+  },
+  {
+    "chunk_id": "fixed_31_1",
+    "method": "fixed_size",
+    "page": 31,
+    "text": "GPT-3 175B—one of the models underpinning the original \nChatGPT—was trained on an estimated 374 billion tokens. \nIn contrast, Meta’s flagship LLM, Llama 3.3, released in the \nsummer of 2024, was trained on roughly 15 trillion tokens. \nAccording to Epoch AI, LLM training datasets double in size \napproximately every eight months."
+  },
+  {
+    "chunk_id": "fixed_32_0",
+    "method": "fixed_size",
+    "page": 32,
+    "text": "Table of Contents 55\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nTraining models on increasingly large datasets has led to \nsignificantly longer training times (Figure 1.3.14). Some \nstate-of-the-art models, such as Llama 3.1-405B, required \napproximately 90 days to train—a typical window by today’s \nstandards. Google’s Gemini 1.0 Ultra, released in late 2023, \ntook around 100 days. This stands in stark contrast to AlexNet, \none of the first models to leverage GPUs for enhanced \nperformance, which trained in just five to six days in 2012. \nNotably, AlexNet was trained on far less advanced hardware. \n2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n0.1\n1\n10\n100\nPublication date\nTraining length (days - log scale)\nTraining length of notable AI models, 2010–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nAlexNet\nTransformer\nBERT-Large\nRoBERTa Large\nGPT-3 175B (davinci)\nMegatron-Turing NLG 530B\nPaLM (540B)\nGPT-4\nLlama 3.1-405B\nFigure 1.3.14"
+  },
+  {
+    "chunk_id": "fixed_32_1",
+    "method": "fixed_size",
+    "page": 32,
+    "text": "AlexNet\nTransformer\nBERT-Large\nRoBERTa Large\nGPT-3 175B (davinci)\nMegatron-Turing NLG 530B\nPaLM (540B)\nGPT-4\nLlama 3.1-405B\nFigure 1.3.14\n1.3 Notable AI Models\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_33_0",
+    "method": "fixed_size",
+    "page": 33,
+    "text": "Table of Contents 56\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nCompute Trends\nThe term “compute” in AI models denotes the computational \nresources required to train and operate a machine learning \nmodel. Generally, the complexity of the model and the size \nof the training dataset directly influence the amount of \ncompute needed. The more complex a model is, and the \nlarger the underlying training data, the greater the amount of \ncompute required for training. Before the final training run, \nresearchers conduct numerous test runs throughout the R&D \nphase. While training a single model is relatively inexpensive, \nthe cumulative cost of multiple R&D runs and the necessary \ndatasets quickly becomes significant. These figures reflect \nonly the final training run, not the entire R&D process. \nFigure 1.3.15 visualizes the training compute required for \nnotable machine learning models over the past 22 years. \nRecently, the compute usage of notable AI models has"
+  },
+  {
+    "chunk_id": "fixed_33_1",
+    "method": "fixed_size",
+    "page": 33,
+    "text": "notable machine learning models over the past 22 years. \nRecently, the compute usage of notable AI models has \nincreased exponentially.22 Epoch estimates that the training \ncompute of notable AI models doubles roughly every five \nmonths. This trend has been especially pronounced in the last \nfive years. This rapid rise in compute demand has important \nimplications. For instance, models requiring more computation \noften have larger environmental footprints, and companies \ntypically have more access to computational resources than \nacademic institutions. For reference, Chapter 2 of the AI \nIndex analyzes the relationship between improvements in \ncomputational resources and model performance.\n2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n100μ\n0.01\n1\n100\n10K\n1M\n100M\n10B\nAcademia Industry Industry–academia Academia–government\nIndustry–research collective Government Research collective\nPublication date"
+  },
+  {
+    "chunk_id": "fixed_33_2",
+    "method": "fixed_size",
+    "page": 33,
+    "text": "10K\n1M\n100M\n10B\nAcademia Industry Industry–academia Academia–government\nIndustry–research collective Government Research collective\nPublication date\nTraining compute (petaFLOP - log scale)\nTraining compute of notable AI models by sector, 2003–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.3.1523\n22 FLOP stands for “floating-point operation.” A floating-point operation is a single arithmetic operation involving floating-point numbers, such as addition, subtraction, multiplication, or \ndivision. The number of FLOP a processor or computer can perform per second is an indicator of its computational power. The higher the FLOP rate, the more powerful the computer. The \nnumber of floating-point operations used to train an AI model reflects its requirement for computational resources during development."
+  },
+  {
+    "chunk_id": "fixed_33_3",
+    "method": "fixed_size",
+    "page": 33,
+    "text": "number of floating-point operations used to train an AI model reflects its requirement for computational resources during development.\n23 Estimating training compute is an important aspect of AI model analysis, yet it often requires indirect measurement. When direct reporting is unavailable, Epoch estimates compute by \nusing hardware specifications and usage patterns or by counting arithmetic operations based on model architecture and training data. In cases where neither approach is feasible, benchmark \nperformance can serve as a proxy to infer training compute by comparing models with known compute values. Full details of Epoch’s methodology can be found in the documentation section \nof their website.\n1.3 Notable AI Models\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_34_0",
+    "method": "fixed_size",
+    "page": 34,
+    "text": "Table of Contents 57\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nFigure 1.3.16 highlights the training compute of notable \nmachine learning models since 2012. For example, AlexNet, \none of the models that popularized the now standard practice \nof using GPUs to improve AI models, required an estimated \n470 petaFLOP for training. 24 The original Transformer , \nreleased in 2017, required around 7,400 petaFLOP. OpenAI’s \nGPT-4o, one of the current state-of-the-art foundation \nmodels, required 38 billion petaFLOP. Creating cutting-\nedge AI models now demands a colossal amount of data, \ncomputing power, and financial resources that are not \navailable to academia. Most leading AI models are coming \nfrom industry, a trend that was first highlighted in last year’s \nAI Index. Although the gap has slightly narrowed this year, \nthe trend persists.\n24 A petaFLOP (PFLOP) is a unit of computing power equal to one quadrillion (10¹⁵) floating-point operations per second."
+  },
+  {
+    "chunk_id": "fixed_34_1",
+    "method": "fixed_size",
+    "page": 34,
+    "text": "the trend persists.\n24 A petaFLOP (PFLOP) is a unit of computing power equal to one quadrillion (10¹⁵) floating-point operations per second.\n1.3 Notable AI Models\nChapter 1: Research and Development\nDeepSeek-V3\nQwen2.5-72B\nLlama 2-70B\nClaude 2PaLM (540B)\nMegatron-Turing NLG 530B\nGPT-3 175B (davinci)\nRoBERTa Large\nBERT-Large\nTransformer\nSegment Anything Model\nAlexNet\nGPT-4\n2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n1000\n10K\n100K\n1M\n10M\n100M\n1B\n10B\n100B\nLanguage Vision Multimodal\nPublication date\nTraining compute (petaFLOP - log scale)\nMistral Large 2\nClaude 3.5 Sonnet\nGemini 1.5 Pro GPT-4o\nERNIE 3.0 Titan\nTraining compute of notable AI models by domain, 2012–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.3.16"
+  },
+  {
+    "chunk_id": "fixed_35_0",
+    "method": "fixed_size",
+    "page": 35,
+    "text": "Table of Contents 58\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n1.3 Notable AI Models\nChapter 1: Research and Development\nThe launch of DeepSeek’s V3 model in December 2024 \ngarnered significant attention, particularly because it \nachieved exceptionally high performance while requiring \nfar fewer computational resources than many leading LLMs. \nFigure 1.3.17 compares the training compute of notable \nmachine learning models from the United States and China, \nhighlighting a key trend: Top-tier AI models from the U.S. \nhave generally been far more computationally intensive than \nChinese models. According to Epoch AI, the top 10 Chinese \nlanguage models by training compute have scaled at a rate \nof about three times per year since late 2021—considerably \nslower than the five times per year trend observed in the rest \nof the world since 2018.\n2018 2019 2020 2021 2022 2023 2024\n100\n1000\n10K\n100K\n1M\n10M\n100M\n1B\n10B\n100B\nUnited States China\nPublication date"
+  },
+  {
+    "chunk_id": "fixed_35_1",
+    "method": "fixed_size",
+    "page": 35,
+    "text": "of the world since 2018.\n2018 2019 2020 2021 2022 2023 2024\n100\n1000\n10K\n100K\n1M\n10M\n100M\n1B\n10B\n100B\nUnited States China\nPublication date\nTraining compute (petaFLOP – log scale)\nGPT-4\nGPT-3 175B (davinci)\nGrok-2\nClaude 3.5 Sonnet\nDeepSeek-V3\nDoubao-proERNIE 3.0 Titan\nQwen2.5-72B\nTraining compute of select notable AI models in the United States and China, 2018–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.3.17"
+  },
+  {
+    "chunk_id": "fixed_36_0",
+    "method": "fixed_size",
+    "page": 36,
+    "text": "Table of Contents 59\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nHighlight:  \nWill Models Run Out of Data?\nOne of the key drivers of substantive algorithmic \nimprovements in AI systems has been the scaling \nof models and their training on ever-larger datasets. \nHowever, as the supply of internet training data becomes \nincreasingly depleted, concerns have grown about the \nsustainability of this scaling approach and the potential \nfor a data bottleneck, where returns to scale diminish. \nLast year’s AI Index explored various factors in this \ndebate, including the availability of existing internet data \nand the potential for training models on synthetic data. \nNew research this year suggests that the current stock of \ndata may last longer than previously expected.\nEpoch AI has updated its previous estimates for when AI \nresearchers might run out of data. In its latest research, \nthe team estimated the total effective stock of data"
+  },
+  {
+    "chunk_id": "fixed_36_1",
+    "method": "fixed_size",
+    "page": 36,
+    "text": "researchers might run out of data. In its latest research, \nthe team estimated the total effective stock of data \navailable for training models according to token count \n(Figure 1.3.18). Common Crawl, an open repository of web \ncrawl data frequently used in AI training, is estimated to \ncontain a median of 130 trillion tokens. The indexed web \nholds approximately 510 trillion tokens, while the entire \nweb contains around 3,100 trillion. Additionally, the total \nstock of images is estimated at 300 trillion, and video at \n1,350 trillion.\n130T\n510T\n3,100T\n300T\n1,350T\nCommon Crawl Index web Whole web\n(incl. private data)\nImages Video\n300T\n1000T\n3000T\nData source\nNumber of tokens (median - log scale)\nEstimated median data stocks\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.3.18\n1.3 Notable AI Models\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_37_0",
+    "method": "fixed_size",
+    "page": 37,
+    "text": "Table of Contents 60\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nThe Epoch AI research team projects, with an 80% \nconfidence interval, that the current stock of training \ndata will be fully utilized between 2026 and 2032 (Figure \n1.3.19). Several factors influence the point in time when \ndata is likely to run out. One key factor is the historical \ngrowth of dataset sizes, which depends on how \nmany people generate and contribute content to the \ninternet. Another important factor is computer usage. \nIf models are trained in a compute-optimal manner, the \navailable data stock can last longer. However, if models \nare  overtrained to achieve more compute-efficient \ninference performance, the stock is likely to be depleted \nsooner. When AI models are overtrained, meaning they \nare trained for an extended period beyond the typical \npoint of diminishing returns, they may achieve more \ncompute-efficient inference—that is, they can process"
+  },
+  {
+    "chunk_id": "fixed_37_1",
+    "method": "fixed_size",
+    "page": 37,
+    "text": "point of diminishing returns, they may achieve more \ncompute-efficient inference—that is, they can process \nprompts (make predictions, generate text, etc.) using \nless computational power. However, this comes at a \ncost: The stock (i.e., data available to train the model) \nmay be depleted more quickly.\nLlama 3.1-405B\nDBRX\nFalcon-180B\nPaLM (540B)\nFLAN 137B\nGPT-3 175B (davinci)\n2020 2022 2024 2026 2028 2030 2032 2034\n10B\n100B\n1T\n10T\n100T\n10 15 \nEstimated stock of data\nMedian date of full stock utilization\n(5x overtraining)\nMedian date of full stock utilization\nPublication date\nEective stock (number of tokens - log scale)\nProjections of the stock of public text and data usage\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.3.19\n1.3 Notable AI Models\nChapter 1: Research and Development\nHighlight:  \nWill Models Run Out of Data? (cont’d)"
+  },
+  {
+    "chunk_id": "fixed_38_0",
+    "method": "fixed_size",
+    "page": 38,
+    "text": "Table of Contents 61\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nThese projections differ slightly from Epoch’s earlier \nestimates, which predicted that high-quality text data \nwould be depleted by 2024. The revised projections \nreflect an updated methodology that incorporates new \nresearch showing that web data performs better than \ncurated corpora and that models can be trained on \nthe same datasets multiple times. The realization that \ncarefully filtered web data is effective and that repeated \ntraining on the same dataset is viable has expanded \nestimates of the available data stock. As a result, the \nEpoch researchers pushed back their forecasts of when \ndata depletion might occur.\nUsing synthetic data—data generated by AI models \nthemselves—to train models has also been suggested \nas a solution to potential data shortages. The 2024 AI \nIndex suggests there are limitations associated with \nthis approach, namely that models trained this way are"
+  },
+  {
+    "chunk_id": "fixed_38_1",
+    "method": "fixed_size",
+    "page": 38,
+    "text": "Index suggests there are limitations associated with \nthis approach, namely that models trained this way are \nlikely to lose representation of the tails of distributions \nwhen performing repeated training cycles on synthetic \ndata. This leads to degraded model output quality. This \nphenomenon was observed across different model \narchitectures, including variational autoencoders (VAEs), \nGaussian mixture models (GMMs), and LLMs. However, \nnewer research suggests that when synthetic data is \nlayered on top of real data, rather than replacing it, the \nmodel collapse phenomenon does not occur. While this \naccumulation does not necessarily improve performance \nor reduce test loss (lower test loss indicates better model \nperformance), it also does not result in the same degree of \ndegradation as outright data replacement (Figure 1.3.20).\n1 2 3 4 5\n1.6\n1.8\n2\n2.2\n2.4\n2.6\n2.8\n1 2 3 4 5\n1.6\n1.8\n2\n2.2\n2.4\n2.6\n2.8\nLlama-2 (126M) Llama-2 (42M) Llama-2 (12M) GPT-2 (9M)"
+  },
+  {
+    "chunk_id": "fixed_38_2",
+    "method": "fixed_size",
+    "page": 38,
+    "text": "1 2 3 4 5\n1.6\n1.8\n2\n2.2\n2.4\n2.6\n2.8\n1 2 3 4 5\n1.6\n1.8\n2\n2.2\n2.4\n2.6\n2.8\nLlama-2 (126M) Llama-2 (42M) Llama-2 (12M) GPT-2 (9M)\nModel-tting iteration Model-tting iteration\nCross entropy (test) ↓\nReplace Accumulate\nEect of data accumulation on language models pretrained on TinyStories\nSource: Gerstgrasser et al., 2024 | Chart: 2025 AI Index report\nFigure 1.3.20\n1.3 Notable AI Models\nChapter 1: Research and Development\nHighlight:  \nWill Models Run Out of Data? (cont’d)"
+  },
+  {
+    "chunk_id": "fixed_39_0",
+    "method": "fixed_size",
+    "page": 39,
+    "text": "Table of Contents 62\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nThis year, there have been advances in generating \nhigh-fidelity synthetic data. However, synthetic data is \nstill generally distinguishable from real data, and there \nis no existing scalable method to achieve the same \nperformance training LLMs on synthetic data compared \nto real data. A team of Slovenian researchers compared \nthe performance of models trained on synthetic and real \ndata across multiple architectures and datasets. They \nevaluated how well synthetic relational data preserves key \ncharacteristics of the original data (“fidelity”) and remains \nuseful for downstream tasks (“utility”). They found that \nmost methods are systematically detectable as synthetic, \nespecially once relational information is considered. \nFurthermore, performance typically deteriorates \ncompared to real data–trained models, but some methods \nstill yield moderately good predictive scores. In a few"
+  },
+  {
+    "chunk_id": "fixed_39_1",
+    "method": "fixed_size",
+    "page": 39,
+    "text": "compared to real data–trained models, but some methods \nstill yield moderately good predictive scores. In a few \nexperiments, synthetic data outperformed real data such \nas using Synthetic Data Vault (SDV) vs. Walmart data to \ntrain an XGBoost classifier. The researchers showed that \ntraining on the synthetic dataset achieves a lower mean \nsquared error (MSE). There is also evidence that synthetic \ndata shows promise in the healthcare domain. More \nspecifically, some model architectures lead to enhanced \nperformance on classification and prediction tasks by \ntraining on synthetically augmented datasets, increasing \nF1 scores or AUROC by 5%–10% on minority classes.25 \nThere are concerns around the quality and fidelity of \nsynthetically generated data, as LLMs are known to \nhallucinate and provide factually incorrect outputs. When \ntraining on hallucinated content in datasets, models can \nexperience compounded degradation in output quality."
+  },
+  {
+    "chunk_id": "fixed_39_2",
+    "method": "fixed_size",
+    "page": 39,
+    "text": "training on hallucinated content in datasets, models can \nexperience compounded degradation in output quality. \nNew techniques have been developed to combat this \nissue. For example, researchers from Stanford and the \nUniversity of North Carolina at Chapel Hill have used  \nautomated fact-checking and confidence scores to rank \nfactuality scores of model response pairs. The FactTune-\nFS methods introduced by these researchers have tended \nto outperform other RLHF and decoding-based methods \nfor factuality improvement (Figure 1.3.21). Human-in-the-\nloop approaches to label preferred responses have also \nbeen used to align language models. While promising, \nthe human-in-the-loop approaches tend to be more \nexpensive. Finally, post hoc filtering and debiasing \nmethods can be used to remove anomalies in synthetic \ndata before the training stage.\n1.3 Notable AI Models\nChapter 1: Research and Development\nHighlight:  \nWill Models Run Out of Data? (cont’d)"
+  },
+  {
+    "chunk_id": "fixed_39_3",
+    "method": "fixed_size",
+    "page": 39,
+    "text": "data before the training stage.\n1.3 Notable AI Models\nChapter 1: Research and Development\nHighlight:  \nWill Models Run Out of Data? (cont’d)\n25 AUROC (area under the receiver operating characteristic) curve is a widely used metric for evaluating AI model performance, particularly in classification tasks."
+  },
+  {
+    "chunk_id": "fixed_40_0",
+    "method": "fixed_size",
+    "page": 40,
+    "text": "Table of Contents 63\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nAs the prevalence of synthetic data grows, particularly \nwith an increasing share of web content being AI-\ngenerated, future models will inevitably be trained on \nnon-human-generated material. While synthetic data \noffers the advantage of a near-infinite supply, effectively \nleveraging it for model training requires a deeper \nunderstanding of its impact on learning dynamics and \nperformance. One approach to expanding datasets is \ndata augmentation, which modifies real data—such as \ntilting or image mixing—to create new variations while \npreserving essential characteristics. Both synthetic data \ngeneration and data augmentation present opportunities \nto enhance AI models, but their effective use demands \nfurther research.\n1.3 Notable AI Models\nChapter 1: Research and Development\nHighlight:  \nWill Models Run Out of Data? (cont’d)\n56.80%\n66.90% 69.60%70.10%\n74.80%75.40% 76.00%78.30% 81.20%\n84.60%\n89.50%\nSFT"
+  },
+  {
+    "chunk_id": "fixed_40_1",
+    "method": "fixed_size",
+    "page": 40,
+    "text": "Highlight:  \nWill Models Run Out of Data? (cont’d)\n56.80%\n66.90% 69.60%70.10%\n74.80%75.40% 76.00%78.30% 81.20%\n84.60%\n89.50%\nSFT\nITI \nDOLA\nFactTune-MC\nFactTune-FS\nSFT\nITI \nDOLA\nChat\nFactTune-MC\nFactTune-FS\nLlama-1 Llama-2\n0%\n20%\n40%\n60%\n80%\n100%\nBase model and method\nPercentage of correct answers\nFactual accuracy: percentage of correct answers in biographies\nSource: Tian et al., 2023 | Chart: 2025 AI Index report\nFigure 1.3.21"
+  },
+  {
+    "chunk_id": "fixed_41_0",
+    "method": "fixed_size",
+    "page": 41,
+    "text": "Table of Contents 64\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nInference Cost\nLast year’s AI Index highlighted the rapidly rising training costs \nof frontier LLM systems. This year, in addition to updating its \nanalysis on training costs, the Index examines how inference \ncosts for frontier systems have evolved over time. Inference \ncosts refer to the expense of querying a trained model, and \nthey are typically measured in USD per million tokens. Data on \nAI token pricing comes from both Artificial Analysis and Epoch \nAI’s proprietary database on API pricing. The reported price is \na 3:1 weighted average of input and output token prices.\nTo analyze inference costs, the AI Index worked with \nEpoch to measure how costs have decreased for a fixed \nAI performance threshold. This standardized approach \nfacilitates a more accurate comparison. While newer models \nmay cost more, they also tend to perform significantly \nbetter—so comparing them directly to older, less capable"
+  },
+  {
+    "chunk_id": "fixed_41_1",
+    "method": "fixed_size",
+    "page": 41,
+    "text": "may cost more, they also tend to perform significantly \nbetter—so comparing them directly to older, less capable \nmodels can obscure the real trend: AI performance per dollar \nhas improved substantially. For instance, the inference cost \nfor an AI model scoring the equivalent of GPT-3.5 (64.8) \non MMLU , a popular benchmark for assessing language \nmodel performance, dropped from $20 per million tokens in \nNovember 2022 to just $0.07 per million tokens by October \n2024 (Gemini-1.5-Flash-8B)—a more than 280-fold reduction \nin approximately 1.5 years. A similar trend is evident in the \ncost of models scoring above 50% on GPQA, a substantially \nmore challenging benchmark than MMLU. There, inference \ncosts declined from $15 per million tokens in May 2024 to \n$0.12 per million tokens by December 2024 (Phi 4). Epoch AI \nestimates that, depending on the task, LLM inference costs \nhave been falling anywhere from nine to 900 times per year.\nGPT-3.5\nLlama-3.1-Instruct-8B Gemini-1.5-Flash-8B"
+  },
+  {
+    "chunk_id": "fixed_41_2",
+    "method": "fixed_size",
+    "page": 41,
+    "text": "have been falling anywhere from nine to 900 times per year.\nGPT-3.5\nLlama-3.1-Instruct-8B Gemini-1.5-Flash-8B\nGPT-4o-2024-05\nP\nClaude-3.5-Sonnet-2024-06\nhi 4\nGPT-4-0314\nDeepSeek-V3\n2022-Sep 2023-Jan 2023-May 2023-Sep 2024-Jan 2024-May 2024-Sep 2025-Jan\n0.1\n1\n10\nGPT-3.5 level+ in multitask language understanding (MMLU) GPT-4o level+ in PhD-level science questions (GPQA Diamond)\nGPT-4 level+ in code generation (HumanEval) GPT-4o level+ in LMSYS Chatbot Arena Elo\nPublication date\nInference price (in USD per million tokens - log scale)\nInference price across select benchmarks, 2022–24\nSource: Epoch AI, 2025; Articial Analysis, 2025 | Chart: 2025 AI Index report\nFigure 1.3.22\n1.3 Notable AI Models\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_42_0",
+    "method": "fixed_size",
+    "page": 42,
+    "text": "Table of Contents 65\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nThe inference cost to achieve a given level of performance has \ndeclined notably over time. However, state-of-the-art models \nremain more expensive than some of the previously mentioned \nalternatives. Figure 1.3.23 illustrates the cost per million tokens \nfor leading models from developers such as OpenAI, Meta, and \nAnthropic.26 These top-tier models are generally priced higher \nthan smaller models from the same companies, reflecting the \npremium required for cutting-edge performance.\n60.00\n15.00\n6.00 5.00 3.50 2.19\no1 Claude 3.5 Sonnet\n(Oct 2024)\nMistral Large 2\n(Nov 2024)\nGemini 1.5 Pro\n(Sep 2024)\nLlama 3.1 405B DeepSeek R1\n0\n10\n20\n30\n40\n50\n60\nModel\nOutput price (in USD per million tokens)\nOutput price per million tokens for select models\nSource: Articial Analysis, 2025 | Chart: 2025 AI Index report\nFigure 1.3.23\n1.3 Notable AI Models\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_42_1",
+    "method": "fixed_size",
+    "page": 42,
+    "text": "Source: Articial Analysis, 2025 | Chart: 2025 AI Index report\nFigure 1.3.23\n1.3 Notable AI Models\nChapter 1: Research and Development\n26 The Index visualizes a selection of state-of-the-art models with publicly available pricing as of February 2025. Since publication, newer models may have been released and pricing may \nhave changed.\n27 Some reports have disputed the stated cost of DeepSeek-V3, arguing that when factoring in employee salaries, capital expenditures, and research expenses, the actual development costs \nwere significantly higher.\n28 A detailed report on Epoch’s research methodology is available in this paper.\nTraining Cost\nA frequent discussion around foundation models pertains to \ntheir high training costs. While AI companies rarely disclose \nexact figures, costs are widely estimated to reach into the \nmillions of dollars—and continue to rise. OpenAI CEO Sam \nAltman, for instance, indicated that training GPT-4 exceeded"
+  },
+  {
+    "chunk_id": "fixed_42_2",
+    "method": "fixed_size",
+    "page": 42,
+    "text": "millions of dollars—and continue to rise. OpenAI CEO Sam \nAltman, for instance, indicated that training GPT-4 exceeded \n$100 million. In July 2024, Anthropic CEO Dario Amodei noted \nthat model training runs costing around $1 billion were already \nunderway. Even more recent models, such as DeepSeek-V3, \nreportedly cost less—about $6 million—but overall, training \nremains extremely expensive.27\nUnderstanding the costs associated with training AI models \nremains important, yet detailed cost information remains \nscarce. Last year, the AI Index published initial estimates on \nthe costs of training foundation models. This year, the AI Index \nonce again partnered with Epoch AI to update and refine \nthese estimates. To calculate costs for cutting-edge models, \nthe Epoch team analyzed factors such as training duration, \nhardware type, quantity, and utilization rates, relying on \ninformation from academic publications, press releases, and \ntechnical reports.28"
+  },
+  {
+    "chunk_id": "fixed_43_0",
+    "method": "fixed_size",
+    "page": 43,
+    "text": "Table of Contents 66\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n670 160K 4M 6M 1M\n12M\n79M\n29M\n3M\n26M\n192M\n41M\n170M\n107M\nTransformer\nRoBERTa Large\nGPT-3 175B (davinci)\nMegatron-Turing NLG 530B\nLaMDA\nPaLM (540B)\nGPT-4\nPaLM 2\nLlama 2-70B\nFalcon-180B\nGemini 1.0 Ultra\nMistral Large\nLlama 3.1-405B\nGrok-2\n2017 2019 2020 2021 2022 2023 2024\n0\n50M\n100M\n150M\n200MTraining cost (in US dollars)\nEstimated training cost of select AI models, 2019–24\nSource: Epoch AI, 2024 | Chart: 2025 AI Index report\nFigure 1.3.24\n1.3 Notable AI Models\nChapter 1: Research and Development\n29 The cost figures reported in this section are inflation-adjusted.\nFigure 1.3.24 visualizes the estimated training cost associated \nwith select AI models, based on cloud compute rental prices. \nFigure 1.3.25 visualizes the training cost of all AI models for \nwhich the AI Index has estimates.\nAI Index estimates validate suspicions that in recent years \nmodel training costs have significantly increased. For"
+  },
+  {
+    "chunk_id": "fixed_43_1",
+    "method": "fixed_size",
+    "page": 43,
+    "text": "AI Index estimates validate suspicions that in recent years \nmodel training costs have significantly increased. For \nexample, in 2017, the original Transformer model, which \nintroduced the architecture that underpins virtually every \nmodern LLM, cost around $670 to train. RoBERTa Large, \nreleased in 2019, which achieved state-of-the-art results on \nmany canonical comprehension benchmarks like SQuAD \nand GLUE, cost around $160,000 to train. Fast-forward to \n2023, and training costs for OpenAI’s GPT-4 were estimated \naround $79 million.\nOne of the few 2024 models for which Epoch could estimate \ntraining costs was Llama 3.1-405B, with an estimated cost of \n$170 million. As the AI landscape grows more competitive, \ncompanies are disclosing less about their training processes, \nmaking it increasingly difficult to estimate computational \ncosts.\nAs established in previous AI Index reports, there is a direct \ncorrelation between the training costs of AI models and their"
+  },
+  {
+    "chunk_id": "fixed_43_2",
+    "method": "fixed_size",
+    "page": 43,
+    "text": "costs.\nAs established in previous AI Index reports, there is a direct \ncorrelation between the training costs of AI models and their \ncomputational requirements. As illustrated in Figure 1.3.26, \nmodels with greater computational training needs cost \nsubstantially more to train."
+  },
+  {
+    "chunk_id": "fixed_44_0",
+    "method": "fixed_size",
+    "page": 44,
+    "text": "Table of Contents 67\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nLlama 3.1-405B\nNemotron-4 340B\nGemini 1.0 Ultra\nInection-2\nFalcon-180B\nLlama 2-70B\nPaLM 2\nGPT-4\nLLaMA-65B\nGPT-3.5\nBLOOM-176B\nPaLM (540B)\nLaMDAHyperCLOVA 82B\nMeta Pseudo Labels\nSwitch\nGPT-3 175B (davinci)\nAlphaStar\nMegatron-BERT\nRoBERTa Large\nBigGAN-deep 512×512\nJFT\nXception\nGNMT\n2016 2017 2018 2019 2020 2021 2022 2023 2024\n10K\n100K\n1M\n10M\n100M\nPublication date\nTraining cost (in US dollars - log scale)\nEstimated training cost of select AI models, 2016–24\nSource: Epoch AI, 2024 | Chart: 2025 AI Index report\nGrok-2\nLlama 3.1-405B\nMistral Large\nGemini 1.0 Ultra\nFalcon-180B\nLlama 2-70B\nPaLM 2\nGPT-4\nPaLM (540B)\nLaMDA\nMegatron-Turing NLG 530B\nGPT-3 175B (davinci)\nRoBERTa Large\n10M 100M 1B 10B 100B\n100K\n1M\n10M\n100M\nTraining compute (petaFLOP - log scale)\nTraining cost (in US dollars - log scale)\nEstimated training cost and compute of select AI models\nSource: Epoch AI, 2024 | Chart: 2025 AI Index report"
+  },
+  {
+    "chunk_id": "fixed_44_1",
+    "method": "fixed_size",
+    "page": 44,
+    "text": "Estimated training cost and compute of select AI models\nSource: Epoch AI, 2024 | Chart: 2025 AI Index report\nFigure 1.3.25\nFigure 1.3.26\n1.3 Notable AI Models\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_45_0",
+    "method": "fixed_size",
+    "page": 45,
+    "text": "Table of Contents 68\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nHardware advancements play a critical role \nin driving AI progress. While scaling models \nand training on larger datasets have led to \nsignificant performance improvements, \nthese advances have largely been enabled by \nimprovements in hardware—particularly the \ndevelopment of more powerful and efficient \nGPUs (graphics processing units). GPUs \naccelerate complex computations, allowing \nmodels to process vast amounts of data in \nparallel and significantly reducing training \ntime. This section of the Index leverages \ndata from Epoch AI to analyze key trends in \nmachine learning hardware and its impact on \nAI development.\nWhile this section currently emphasizes \ncompute performance (FLOP/s), network \nbandwidth—the speed at which GPUs \ncommunicate—is equally critical. Although \ndata on network bandwidth of data centers \nis limited, future editions of the AI Index will \naim to include this information."
+  },
+  {
+    "chunk_id": "fixed_45_1",
+    "method": "fixed_size",
+    "page": 45,
+    "text": "data on network bandwidth of data centers \nis limited, future editions of the AI Index will \naim to include this information.\n1.4 Hardware\nOverview\nFigure 1.4.1 illustrates the peak computational performance of ML hardware \nacross different precision types, where precision refers to the number of bits \nused to represent numerical values, particularly floating-point numbers, in \ncomputations. The choice of precision depends on the specific goal. For instance, \nlower-precision hardware, which requires fewer bits and has lower memory \nbandwidth, is ideal for optimizing computation speed and energy efficiency. This \nis particularly beneficial for AI models running on edge or mobile devices or in \nscenarios where inference speed is a priority. On the other hand, higher-precision \nhardware preserves greater numerical accuracy, making it essential for scientific \ncomputing and applications sensitive to precision errors. Of the precisions"
+  },
+  {
+    "chunk_id": "fixed_45_2",
+    "method": "fixed_size",
+    "page": 45,
+    "text": "computing and applications sensitive to precision errors. Of the precisions \nvisualized in the figures below, FP32 has the highest precision, TF32 offers \nmedium-high precision, and Tensor-FP16/BF16 and FP16 are lower-precision \nformats optimized for speed and efficiency.\nMeasured in 16-bit floating-point operations, Epoch estimates that machine learning \nhardware performance has grown over the period 2008–2024 at an annual rate of \napproximately 43%, doubling every 1.9 years. According to Epoch, this progress \nhas been driven by increased transistor counts, advancements in semiconductor \nmanufacturing, and the development of specialized hardware for AI workloads. \n2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n10B\n100B\n1T\n10T\n100T\n10  15 \n10  16 \nFP32 FP16 TF32 (19-bit) Tensor-FP16/BF16\nPublication date\nPerformance (FLOP/s - log scale)\nPeak computational performance of ML hardware for dierent precisions, 2008–24"
+  },
+  {
+    "chunk_id": "fixed_45_3",
+    "method": "fixed_size",
+    "page": 45,
+    "text": "Publication date\nPerformance (FLOP/s - log scale)\nPeak computational performance of ML hardware for dierent precisions, 2008–24 \nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.4.1\n1.4 Hardware\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_46_0",
+    "method": "fixed_size",
+    "page": 46,
+    "text": "Table of Contents 69\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\n1.87×10 13 \n1.25×10 14 \n3.12×10 14 \n9.89×10 14 \nP100 V100 A100 H100\n2016 2017 2020 2022\n0\n0.2×10 15 \n0.4×10 15 \n0.6×10 15 \n0.8×10 15 \n1×10 15 \nHardware\nPerformance (FLOP per second)\nPerformance of leading Nvidia data center GPUs for machine learning\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nThe price-performance of leading machine learning \nhardware has steadily improved. Figure 1.4.2 illustrates the \nperformance of selected Nvidia data center GPUs—among \nthe most commonly used for AI training—in FLOP per \nsecond. Figure 1.4.3 visualizes the price-performance of \nthose same GPUs, measured in FLOP per second per dollar. \nFor example, the H100 GPU, announced in March 2022, \nachieves 22 billion FLOP per second per dollar, which is \napproximately 1.7 times the price-performance of the A100 \n(launched in June 2020) and 16.9 times that of the P100"
+  },
+  {
+    "chunk_id": "fixed_46_1",
+    "method": "fixed_size",
+    "page": 46,
+    "text": "approximately 1.7 times the price-performance of the A100 \n(launched in June 2020) and 16.9 times that of the P100 \n(released in April 2016). Epoch estimates that hardware with \na fixed performance level decreases in cost by 30% annually, \nmaking AI training increasingly affordable, scalable, and \nconducive to model improvements.\nFigure 1.4.2\n1.4 Hardware\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_47_0",
+    "method": "fixed_size",
+    "page": 47,
+    "text": "Table of Contents 70\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nFigure 1.4.4, based on the Epoch AI notable machine learning \nmodels dataset, examines the hardware used to train notable \nmachine learning models. As of 2024, the most commonly \nreported hardware was the A100, used by 64 models, followed \nby the V100. An increasing number of models are now being \ntrained on the H100, with 15 reported by the end of 2024.\n1.30×10 9 \n6.70×10 9 \n1.30×10 10 \n2.20×10 10 \n1×10⁹ 5×10⁹ 1×10¹⁰ 1.5×10¹⁰ 2×10¹⁰\nH100\nA100\nV100\nP100\nFLOP per second per dollar\nHardware\nPrice-performance of leading Nvidia data center GPUs for machine learning\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\n2017 2018 2019 2020 2021 2022 2023 2024\n0\n10\n20\n30\n40\n50\n60\nPublication date\nCumulative number of notable AI models\n6, P100\n15, H100\n25, TPU v4\n37, Other\n47, TPU v3\n56, V100\n65, A100\nCumulative number of notable AI models trained by accelerator, 2017–24"
+  },
+  {
+    "chunk_id": "fixed_47_1",
+    "method": "fixed_size",
+    "page": 47,
+    "text": "6, P100\n15, H100\n25, TPU v4\n37, Other\n47, TPU v3\n56, V100\n65, A100\nCumulative number of notable AI models trained by accelerator, 2017–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.4.3\nFigure 1.4.4\n1.4 Hardware\nChapter 1: Research and Development"
+  },
+  {
+    "chunk_id": "fixed_48_0",
+    "method": "fixed_size",
+    "page": 48,
+    "text": "Table of Contents 71\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nHighlight:  \nEnergy Efficiency and Environmental Impact\nTraining AI systems requires substantial energy, making \nthe energy efficiency of machine learning hardware \na critical factor. Epoch AI reports that ML hardware \nhas become increasingly energy efficient over time, \nimproving by approximately 40% per year. Figure 1.4.5 \nillustrates the energy efficiency of Tensor-FP16 precision \nhardware, measured in FLOP/s per watt. For instance, the \nNvidia B100, released in March 2024, achieved an energy \nefficiency of 2.5 trillion FLOP/s per watt, compared to \nthe Nvidia P100, released in April 2016, which reported \n74 billion FLOP/s per watt. This means the B100 is 33.8 \ntimes more energy efficient than the P100.\n1.4 Hardware\nChapter 1: Research and Development\n2016 2017 2018 2019 2020 2021 2022 2023 2024\n1B\n10B\n100B\n1T\nLeading hardware\nNon-leading hardware\nPublication date"
+  },
+  {
+    "chunk_id": "fixed_48_1",
+    "method": "fixed_size",
+    "page": 48,
+    "text": "2016 2017 2018 2019 2020 2021 2022 2023 2024\n1B\n10B\n100B\n1T\nLeading hardware\nNon-leading hardware\nPublication date\nEnergy eciency (FLOP/s per watt - log scale)\nNVIDIA P100\nGoogle TPU v2\nGoogle TPU v3\nGoogle TPU v4\nNVIDIA Tesla V100 SXM2 32 GB\nGoogle TPU v4i\nNVIDIA A100\nGoogle TPU v5e\nNVIDIA B100\nNVIDIA H100 SXM5 80GB\nNVIDIA GB200 NVL2\nNVIDIA B200\nEnergy eciency of leading machine learning hardware, 2016–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.4.5"
+  },
+  {
+    "chunk_id": "fixed_49_0",
+    "method": "fixed_size",
+    "page": 49,
+    "text": "Table of Contents 72\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nDespite significant improvements in the energy efficiency \nof AI hardware, the overall power consumption required \nto train AI systems continues to rise rapidly. Figure 1.4.6 \nillustrates the total power draw, measured in watts, for \ntraining various state-of-the-art AI models. For example, \nthe original Transformer, introduced in 2017, consumed \nan estimated 4,500 watts. In contrast, PaLM, one of \nGoogle’s first flagship LLMs, had a power draw of 2.6 \nmillion watts—almost 600 times that of the Transformer. \nLlama 3.1-405B, released in the summer of 2024, \nrequired 25.3 million watts, consuming over 5,000 times \nmore power than the original Transformer. According to \nEpoch AI, the power required to train frontier AI models \nis doubling annually. The rising power consumption of \nAI models reflects the trend of training on increasingly \nlarger datasets.\nUnsurprisingly, given that the total amount of power"
+  },
+  {
+    "chunk_id": "fixed_49_1",
+    "method": "fixed_size",
+    "page": 49,
+    "text": "AI models reflects the trend of training on increasingly \nlarger datasets.\nUnsurprisingly, given that the total amount of power \nused to train AI systems has increased over time, so \nhas the amount of carbon emitted by the models. Many \nfactors determine the amount of carbon emitted by AI \nsystems, including the number of parameters in a model, \nthe power usage effectiveness of a data center, and the \ngrid carbon intensity.30\n1.4 Hardware\nChapter 1: Research and Development\nLlama 3.1-405B\n  \n \n \n \n \nGPT-4\n  \n \n \n \nPaLM (540B)\n \n \n \n  \n \n  \n \n \nGPT-3 175B (davinci)\n \n \n  \n  \n  \n \n  \n \n  \n \n \n \n \n \n2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n1000\n10K\n100K\n1M\n10M\nPublication date\nTotal power draw required (watts - log scale)\nTotal power draw required to train frontier models, 2011–24\nSource: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.4.6\nHighlight:  \nEnergy Efficiency and Environmental Impact (cont’d)"
+  },
+  {
+    "chunk_id": "fixed_49_2",
+    "method": "fixed_size",
+    "page": 49,
+    "text": "Source: Epoch AI, 2025 | Chart: 2025 AI Index report\nFigure 1.4.6\nHighlight:  \nEnergy Efficiency and Environmental Impact (cont’d)\n30 Power usage effectiveness (PUE) is a metric used to evaluate the energy efficiency of data centers. It is the ratio of the total amount of energy used by a computer data center facility, \nincluding air conditioning, to the energy delivered to computing equipment. The higher the PUE, the less efficient the data center."
+  },
+  {
+    "chunk_id": "fixed_50_0",
+    "method": "fixed_size",
+    "page": 50,
+    "text": "Table of Contents 73\nArtificial Intelligence\nIndex Report 2025Chapter 1 Preview\nFigure 1.4.7 illustrates the carbon emissions of selected \nAI models, sorted by their release year. To estimate \nthese emissions, the AI Index used carbon data \npublished by model developers and supplemented it \nwith calculations from a widely used online AI training \nemissions calculator. This step was necessary as \nmany developers do not disclose their models’ carbon \nfootprints. The calculator estimates emissions based \non the type of hardware used for training, total training \nhours, cloud provider, and training region.31\nThe carbon emissions from training frontier AI models \nhave steadily increased over time. While AlexNet’s \nemissions were negligible, GPT-3 (released in 2020) \nreportedly emitted around 588 tons of carbon during \ntraining, GPT-4 (2023) emitted 5,184 tons, and Llama 3.1 \n405B (2024) emitted 8,930 tons. DeepSeek V3, released \nin 2024, and whose performance is comparable to"
+  },
+  {
+    "chunk_id": "fixed_50_1",
+    "method": "fixed_size",
+    "page": 50,
+    "text": "405B (2024) emitted 8,930 tons. DeepSeek V3, released \nin 2024, and whose performance is comparable to \nOpenAI’s o1, is estimated to have emissions comparable \nto the GPT-3, released five years ago. For context, on \naverage, Americans emit 18.08 tons of carbon per capita \nper year.\n1.4 Hardware\nChapter 1: Research and Development\n0.01 0.31 2.60 5.50\n588\n1,432\n301\n2,973\n5,184\n597\n8,930\nAlexNet\nVGG16\nBERT-Large\nRoBERTa Large\nGPT-3\nMegatron-Turing NLG\nGLM-130B\nFalcon-180B\nGPT-4\nDeepSeek v3\nLlama 3.1 405B\n2012 2014 2018 2019 2020 2021 2022 2023 2024\n0\n2,000\n4,000\n6,000\n8,000\nCarbon emissions (tons of CO₂ equivalent)\nEstimated carbon emissions from training select AI models and real-life activities, 2012–24\nSource: AI Index, 2025; Strubell et al., 2019 | Chart: 2025 AI Index report\nAir travel (1 passenger, NY↔SF): 0.99 \nHuman life (avg., 1 year): 5.51 \nAmerican life (avg., 1 year): 18.08 \nCar usage (avg., incl. fuel, 1 lifetime): 63\nFigure 1.4.7\nHighlight:"
+  },
+  {
+    "chunk_id": "fixed_50_2",
+    "method": "fixed_size",
+    "page": 50,
+    "text": "Human life (avg., 1 year): 5.51 \nAmerican life (avg., 1 year): 18.08 \nCar usage (avg., incl. fuel, 1 lifetime): 63\nFigure 1.4.7\nHighlight:  \nEnergy Efficiency and Environmental Impact (cont’d)\n31 The AI Index sourced input data—such as training hardware and duration—for the emissions calculator from various online sources. To validate the accuracy of the calculator, the Index \ncompared the calculator’s estimates with actual emissions reported by developers and found that the results were largely consistent. The full estimation methodology is detailed in the \nAppendix."
+  }
+]

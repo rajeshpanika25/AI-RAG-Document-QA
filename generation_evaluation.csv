@@ -1,0 +1,52 @@
+id,question,answerable,generated_answer,expected_answer,keywords,keyword_score,generation_correct
+1,What is the main focus of Chapter 1?,True,The main focus of Chapter 1 is Research and Development.,"Chapter 1 examines AI research and development trends, including publications, patents, notable AI systems, model training and inference costs, hardware, conferences, and open-source AI software.","research, development, publications, patents",0.5,False
+2,Which sector produced nearly 90% of notable AI models in 2024?,True,Industry,Industry produced nearly 90% of notable AI models in 2024.,"industry, 90%",0.5,False
+3,Which country led AI publication totals in 2023?,True,China,"China led, accounting for 23.2% of AI publications.","china, 23.2%",0.5,False
+4,How did the number of AI publications change from 2013 to 2023?,True,"The number of AI publications more than doubled, rising from approximately 102,000 in 2013 to more than 242,000 in 2023.","It rose from approximately 102,000 to more than 242,000, more than doubling.","102,000, 242,000, doubling",0.67,False
+5,What share of computer-science publications were AI-related in 2023?,True,I don't know based on the provided document.,About 41.8% were AI-related.,41.8%,0.0,False
+6,Which country led in highly influential AI research?,True,China,The United States led in top-100-cited AI publications.,"united states, top-100, cited",0.0,False
+7,How many notable AI models did U.S.-based institutions produce in 2024?,True,40,40 notable AI models.,40,1.0,True
+8,How many notable AI models did China produce in 2024?,True,15,15 notable AI models.,15,1.0,True
+9,How fast does training compute for notable AI models double?,True,Roughly every five months.,Approximately every five months.,five months,1.0,True
+10,How fast do LLM training datasets double?,True,"According to Epoch AI, LLM training datasets double in size approximately every eight months.",Approximately every eight months.,eight months,1.0,True
+11,How much did GPT-3.5-level inference cost in Nov. 2022?,True,$20 per million tokens,$20 per million tokens.,"$20, million tokens",1.0,True
+12,What was the comparable inference cost by Oct. 2024?,True,$0.07 per million tokens,$0.07 per million tokens.,"$0.07, million tokens",1.0,True
+13,By how much did that inference cost fall?,True,"The inference cost for an AI model scoring the equivalent of GPT-3.5 on MMLU dropped from $20 per million tokens in November 2022 to just $0.07 per million tokens by October 2024—a more than 280-fold reduction. Additionally, for models scoring above 50% on GPQA, inference costs declined from $15 per million tokens in May 2024 to $0.12 per million tokens by December 2024. Epoch AI also estimates that LLM inference costs have been falling anywhere from nine to 900 times per year, depending on the task.",More than 280-fold.,280-fold,1.0,True
+14,How many AI patents were granted in 2010?,True,"3,833","3,833.","3,833",1.0,True
+15,How many AI patents were granted in 2023?,True,"122,511","122,511.","122,511",1.0,True
+16,What was the increase in AI patents in the last year covered?,True,29.6%,29.6%.,29.6%,1.0,True
+17,Which region accounted for most granted AI patents in 2023?,True,East Asia and the Pacific,"East Asia and the Pacific, with 82.4%.","east asia, pacific, 82.4%",0.67,False
+18,What share of granted AI patents came from China in 2023?,True,69.7%,69.7%.,69.7%,1.0,True
+19,"Which country had the most AI patents per 100,000 people in 2023?",True,South Korea,"South Korea, with 17.3 per 100,000 inhabitants.","south korea, 17.3",0.5,False
+20,"Which country followed South Korea in patents per 100,000 people?",True,I don't know based on the provided document.,"Luxembourg, with 15.3 per 100,000 inhabitants.","luxembourg, 15.3",0.0,False
+21,Which organization led notable AI model production in 2024?,True,"Based on the provided document, the organizations leading in the production of notable AI models in 2024 were Google (7), OpenAI (7 models), and Alibaba (6).",Google and OpenAI were tied at seven models each.,"google, openai, seven",1.0,True
+22,Which organization was third among 2024 notable model producers?,True,Alibaba,"Alibaba, with six models.","alibaba, six",0.5,False
+23,Which organization led cumulative notable model production since 2014?,True,Google,"Google, with 187 notable models.","google, 187",0.5,False
+24,What are API-access models?,True,API access models are machine learning models that allow users to interact with them via queries without providing direct access to their underlying weights.,Models that users can interact with through queries without direct access to the underlying model weights.,"queries, underlying, model weights",0.67,False
+25,What was the most common notable-model access type in 2024?,True,API access,"API access, accounting for 32.8% of models.","api access, 32.8%",0.5,False
+26,What percentage of notable models in 2024 were released without corresponding training code?,True,60.7%,60.7%.,60.7%,1.0,True
+27,What are model parameters?,True,Parameters in machine learning models are numerical values learned during training that determine how a model interprets input data and makes predictions.,Numerical values learned during training that determine how a model interprets inputs and makes predictions.,"numerical values, training, predictions",1.0,True
+28,What trend occurred in AI model parameter counts?,True,"Parameter counts have risen sharply since the early 2010s, reflecting exponential growth.","Parameter counts rose sharply, reflecting greater model complexity, data availability, hardware improvements, and the effectiveness of larger models.","parameter counts, rose sharply, model complexity",0.33,False
+29,How large was the Transformer training dataset?,True,The Transformer model was trained on approximately 2 billion tokens.,Approximately 2 billion tokens.,"2 billion, tokens",1.0,True
+30,How large was GPT-3's estimated training dataset?,True,374 billion tokens,Approximately 374 billion tokens.,"374 billion, tokens",1.0,True
+31,How large was Llama 3.3's reported training dataset?,True,Roughly 15 trillion tokens,Roughly 15 trillion tokens.,"15 trillion, tokens",1.0,True
+32,How long did AlexNet take to train?,True,Five to six days.,About five to six days.,"five, six, days",1.0,True
+33,How long did Llama 3.1-405B take to train?,True,Approximately 90 days,Approximately 90 days.,90 days,1.0,True
+34,What does 'compute' mean in the context of AI models?,True,"In the context of AI models, ""compute"" denotes the computational resources required to train and operate a machine learning model.",The computational resources required to train and operate a machine-learning model.,"computational resources, train, operate",1.0,True
+35,How fast has training compute grown for notable AI models?,True,"Based on the provided document, the training compute of notable AI models has increased exponentially, doubling roughly every five months.",It has increased exponentially and doubles roughly every five months.,"exponentially, five months",1.0,True
+36,How much training compute did AlexNet require?,True,AlexNet required an estimated 470 petaFLOP for training.,An estimated 470 petaFLOP.,"470, petaflop",1.0,True
+37,How much training compute did the original Transformer require?,True,"Around 7,400 petaFLOP","Around 7,400 petaFLOP.","7,400, petaflop",1.0,True
+38,How much training compute did GPT-4o require?,True,38 billion petaFLOP,About 38 billion petaFLOP.,"38 billion, petaflop",1.0,True
+39,What data-stock range does Epoch AI estimate for the indexed web?,True,Approximately 510 trillion tokens,Approximately 510 trillion tokens.,"510 trillion, tokens",1.0,True
+40,When does Epoch AI project the current stock of training data will be fully utilized?,True,Between 2026 and 2032,"Between 2026 and 2032, with an 80% confidence interval.","2026, 2032, 80%",0.67,False
+41,What happens when synthetic data replaces real data through repeated training?,True,"Based on the provided document, when synthetic data undergoes repeated training cycles (replacing real data), models are likely to lose representation of the tails of distributions, which leads to degraded model output quality.","The report discusses model-collapse effects, including degraded output quality.","model collapse, degraded, output quality",0.67,False
+42,What was the inference cost for models above 50% on GPQA in May 2024?,True,$15 per million tokens,$15 per million tokens.,"$15, million tokens",1.0,True
+43,What was that GPQA-related inference cost by December 2024?,True,$0.12 per million tokens,$0.12 per million tokens.,"$0.12, million tokens",1.0,True
+44,What did Sam Altman indicate about GPT-4 training cost?,True,Sam Altman indicated that training GPT-4 exceeded $100 million.,He indicated that training GPT-4 exceeded $100 million.,"sam altman, 100 million",1.0,True
+45,What was the estimated training cost of GPT-4?,True,Around $79 million,Around $79 million in the report's Epoch-based estimate.,$79 million,1.0,True
+46,What was the estimated training cost of Llama 3.1-405B?,True,$170 million,About $170 million.,$170 million,1.0,True
+47,How fast has ML hardware performance grown annually?,True,Approximately 43% annually.,"Approximately 43% per year, doubling every 1.9 years.","43%, 1.9 years",0.5,False
+48,How much did fixed-performance ML hardware costs decline annually?,True,30% annually,About 30% per year.,"30%, per year",0.5,False
+49,How much did ML hardware energy efficiency improve annually?,True,Approximately 40% per year.,Approximately 40% per year.,"40%, per year",1.0,True
+50,Which GPU was reported as being used by the most notable models by 2024?,True,A100,"The NVIDIA A100, reported for 64 models.","nvidia a100, 64",0.0,False
+51,What was the population of Mars in 2024?,False,I don't know based on the provided document.,I don't know based on the provided document.,,1.0,True

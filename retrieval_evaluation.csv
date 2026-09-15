@@ -1,0 +1,52 @@
+id,question,answerable,gold_pages,fixed_page,fixed_distance,fixed_retrieval_correct,paragraph_page,paragraph_distance,paragraph_retrieval_correct
+1,What is the main focus of Chapter 1?,True,"2,3,4",6,1.5894,False,15,1.7129,False
+2,Which sector produced nearly 90% of notable AI models in 2024?,True,4,24,0.5582,False,23,0.5946,False
+3,Which country led AI publication totals in 2023?,True,11,11,0.4552,True,11,0.4971,True
+4,How did the number of AI publications change from 2013 to 2023?,True,7,8,0.4507,False,8,0.4385,False
+5,What share of computer-science publications were AI-related in 2023?,True,8,7,0.4511,False,7,0.4511,False
+6,Which country led in highly influential AI research?,True,12,4,0.6778,False,10,0.7479,False
+7,How many notable AI models did U.S.-based institutions produce in 2024?,True,23,24,0.5099,False,26,0.6159,False
+8,How many notable AI models did China produce in 2024?,True,23,35,0.6545,False,23,0.6675,True
+9,How fast does training compute for notable AI models double?,True,33,4,0.7044,False,4,0.6638,False
+10,How fast do LLM training datasets double?,True,31,31,0.9232,True,4,0.9427,False
+11,How much did GPT-3.5-level inference cost in Nov. 2022?,True,41,41,0.7694,True,41,0.7694,True
+12,What was the comparable inference cost by Oct. 2024?,True,41,41,0.989,True,41,0.9953,True
+13,By how much did that inference cost fall?,True,41,41,1.0294,True,41,1.0794,True
+14,How many AI patents were granted in 2010?,True,19,19,0.3386,True,19,0.5114,True
+15,How many AI patents were granted in 2023?,True,19,19,0.3306,True,19,0.4355,True
+16,What was the increase in AI patents in the last year covered?,True,19,19,0.4253,True,19,0.462,True
+17,Which region accounted for most granted AI patents in 2023?,True,20,20,0.2701,True,20,0.2701,True
+18,What share of granted AI patents came from China in 2023?,True,21,21,0.4618,True,21,0.4618,True
+19,"Which country had the most AI patents per 100,000 people in 2023?",True,21,21,0.3491,True,21,0.3491,True
+20,"Which country followed South Korea in patents per 100,000 people?",True,22,21,0.7927,False,21,0.7927,False
+21,Which organization led notable AI model production in 2024?,True,26,24,0.5581,False,26,0.6035,True
+22,Which organization was third among 2024 notable model producers?,True,26,24,0.974,False,26,1.1352,True
+23,Which organization led cumulative notable model production since 2014?,True,26,24,0.9715,False,24,1.1313,False
+24,What are API-access models?,True,27,27,0.8049,True,27,0.7949,True
+25,What was the most common notable-model access type in 2024?,True,27,27,0.7558,True,27,1.0859,True
+26,What percentage of notable models in 2024 were released without corresponding training code?,True,28,28,0.56,True,24,0.8459,False
+27,What are model parameters?,True,29,29,1.0927,True,29,1.123,True
+28,What trend occurred in AI model parameter counts?,True,29,29,0.605,True,29,0.6151,True
+29,How large was the Transformer training dataset?,True,31,31,0.7872,True,31,0.7897,True
+30,How large was GPT-3's estimated training dataset?,True,31,31,0.8283,True,31,0.9281,True
+31,How large was Llama 3.3's reported training dataset?,True,31,31,0.661,True,38,1.0155,False
+32,How long did AlexNet take to train?,True,32,32,0.8375,True,32,0.8423,True
+33,How long did Llama 3.1-405B take to train?,True,32,31,0.9166,False,32,1.111,True
+34,What does 'compute' mean in the context of AI models?,True,33,33,0.7206,True,33,0.7622,True
+35,How fast has training compute grown for notable AI models?,True,33,4,0.5046,False,4,0.4866,False
+36,How much training compute did AlexNet require?,True,34,32,0.6527,False,32,0.6586,False
+37,How much training compute did the original Transformer require?,True,34,49,0.8638,False,49,0.9358,False
+38,How much training compute did GPT-4o require?,True,34,32,0.9594,False,32,0.9629,False
+39,What data-stock range does Epoch AI estimate for the indexed web?,True,36,36,0.6751,True,36,0.6472,True
+40,When does Epoch AI project the current stock of training data will be fully utilized?,True,37,33,0.6785,False,36,0.8235,False
+41,What happens when synthetic data replaces real data through repeated training?,True,38,38,0.7228,True,39,0.8378,False
+42,What was the inference cost for models above 50% on GPQA in May 2024?,True,41,41,0.8669,True,43,0.9851,False
+43,What was that GPQA-related inference cost by December 2024?,True,41,41,0.92,True,43,1.0351,False
+44,What did Sam Altman indicate about GPT-4 training cost?,True,42,42,0.9889,True,42,0.9819,True
+45,What was the estimated training cost of GPT-4?,True,43,43,0.9137,True,42,0.9245,False
+46,What was the estimated training cost of Llama 3.1-405B?,True,43,43,0.8715,True,44,0.979,False
+47,How fast has ML hardware performance grown annually?,True,45,45,0.6393,True,48,0.8121,False
+48,How much did fixed-performance ML hardware costs decline annually?,True,46,46,0.7924,True,48,0.9492,False
+49,How much did ML hardware energy efficiency improve annually?,True,48,48,0.612,True,48,0.592,True
+50,Which GPU was reported as being used by the most notable models by 2024?,True,47,48,0.7561,False,46,0.7574,False
+51,What was the population of Mars in 2024?,False,,23,1.4552,False,23,1.4552,False
